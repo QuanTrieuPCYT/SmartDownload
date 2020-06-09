@@ -32,19 +32,44 @@ Please note this GUI is for convience and may not be as up to date on https://do
 * [DirectX 7](https://download.bobpony.com/software/dx/DX7.zip)
 * [DirectX 8](https://download.bobpony.com/software/dx/DX8.7z)
 ## [Internet Explorer](https://download.bobpony.com/software/ie/)
-| Version  | Supported Windows OS |
-| ------------- | ------------- |
-| [IE 1](https://download.bobpony.com/software/ie/IE1.zip)  | Windows 95  |
-| [IE 2](https://download.bobpony.com/software/ie/IE2.zip) | Windows 95  |
-| [IE 3](https://download.bobpony.com/software/ie/IE3.zip) | Windows 95 |
-| [IE 4](https://download.bobpony.com/software/ie/IE4.zip) | Windows 95 |
-| [IE 5](https://download.bobpony.com/software/ie/IE5.zip) | Windows 95/98 |
-| [IE 6](https://download.bobpony.com/software/ie/6/) | Windows 98/ME/2K/XP |
-| [IE 7](https://download.bobpony.com/software/ie/IE7.zip) | Windows XP |
-| [IE 8](https://download.bobpony.com/software/ie/IE8.zip) | Windows XP/Vista |
-| [IE 9](https://download.bobpony.com/software/ie/IE9.zip) | Windows Vista/7 |
-| [IE 10](https://download.bobpony.com/software/ie/IE10.zip) | Windows 7 SP1 |
-| IE 11 | Windows 7 SP1 |
+### [Internet Explorer 1](https://download.bobpony.com/software/ie/IE1.zip)
+* [Internet Explorer 1.5](https://download.bobpony.com/software/ie/IE1.5.zip)
+### [Internet Explorer 2](https://download.bobpony.com/software/ie/IE2.zip)
+### [Internet Explorer 3](https://download.bobpony.com/software/ie/3/)
+* [Internet Explorer 3](https://download.bobpony.com/software/ie/3/ie3.exe)
+* [Internet Explorer 3.01](https://download.bobpony.com/software/ie/3/msie301.exe)
+* [Internet Explorer 3.01 for Windows 3.11](https://download.bobpony.com/software/ie/3/msie301w311.exe)
+* [Internet Explorer 3.02 for Windows NT 4](https://download.bobpony.com/software/ie/3/msie302wnt.exe)
+* [Internet Explorer 3.02 for Windows 95](https://download.bobpony.com/software/ie/3/msie302w95.exe)
+* [Internet Explorer 3.02a](https://download.bobpony.com/software/ie/3/ie302a.exe)
+### [Internet Explorer 4](https://download.bobpony.com/software/ie/4/)
+* [Internet Explorer 4](https://download.bobpony.com/software/ie/4/IE4.zip]
+* [Internet Explorer 4 SP1](https://download.bobpony.com/software/ie/4/ie401sp1.exe)
+* [Internet Explorer 4 SP2](https://download.bobpony.com/software/ie/4/IE4SP2.zip)
+### [Internet Explorer 5](https://download.bobpony.com/software/ie/IE5.zip)
+### [Internet Explorer 6](https://download.bobpony.com/software/ie/6/)
+* [IE 6 for Windows NT 4.0](https://download.bobpony.com/software/ie/6/IE6SP1NT.ZIP)
+* [IE 6 for Windows 98](https://download.bobpony.com/software/ie/6/IE6SP198.ZIP)
+* [IE 6 for Windows ME](https://download.bobpony.com/software/ie/6/IE6SP1ME.ZIP)
+* [IE 6 for Windows 2000](https://download.bobpony.com/software/ie/6/IE6SP12K.ZIP)
+* [IE 6 for Windows XP](https://download.bobpony.com/software/ie/6/IE6SP1XP.ZIP)
+### [Internet Explorer 7](https://download.bobpony.com/software/ie/7/)
+* [IE 7 for Windows XP x86](https://download.bobpony.com/software/ie/7/IE7-WindowsXP-x86-enu.exe)
+* [IE 7 for Windows XP/Server 2003 x64](https://download.bobpony.com/software/ie/7/IE7-WindowsServer2003-x64-enu.exe)
+### [Internet Explorer 8](https://download.bobpony.com/software/ie/8/)
+* [IE 8 for Windows XP x86](https://download.bobpony.com/software/ie/8/IE8-WindowsXP-x86-ENU.exe)
+* [IE 8 for Windows XP/Server 2003 x64](https://download.bobpony.com/software/ie/8/IE8-WindowsServer2003-x64-ENU.exe)
+* [IE 8 for Windows Vista x64](https://download.bobpony.com/software/ie/8/IE8-WindowsVista-x64-ENU.exe)
+### [Internet Explorer 9](https://download.bobpony.com/software/ie/9/)
+* [IE 9 for Windows Vista x86](https://download.bobpony.com/software/ie/9/IE9-WindowsVista-x86-enu-final.exe)
+* [IE 9 for Windows Vista x64](https://download.bobpony.com/software/ie/9/IE9-WindowsVista-x64-enu-final.exe)
+* [IE 9 for Windows 7 x64[(https://download.bobpony.com/software/ie/9/IE9-Windows7-x64-enu-final.exe)
+### [Internet Explorer 10](https://download.bobpony.com/software/ie/10/)
+* [IE 10 for Windows 7 x86](https://download.bobpony.com/software/ie/10/IE10-Windows6.1-x86-en-us.exe)
+* [IE 11 for Windows 7 x64(https://download.bobpony.com/software/ie/10/IE10-Windows6.1-x64-en-us.exe)
+### [Internet Explorer 11](https://download.bobpony.com/software/ie/11/)
+* [IE 11 for Windows 7 x86](https://download.bobpony.com/software/ie/11/IE11-Windows6.1-x86-en-us.exe)
+* [IE 11 for Windows 7 x64](https://download.bobpony.com/software/ie/11/IE11-Windows6.1-x64-en-us.exe)
 ## [Microsoft Office](https://download.bobpony.com/software/msoffice/)
 * [Microsoft Office 2003](https://download.bobpony.com/software/msoffice/2003/)
 * [Microsoft Office 2007](https://download.bobpony.com/software/msoffice/2007/)
@@ -84,6 +109,8 @@ Please note this GUI is for convience and may not be as up to date on https://do
 * [Windows 2000 Service Pack 3](https://download.bobpony.com/updates/Windows%202000/Windows%202000%20Service%20Pack%203.7z)
 * [Windows 2000 Service Pack 4](https://download.bobpony.com/updates/Windows%202000/Windows%202000%20Service%20Pack%204.7z)
 ## [Windows XP](https://download.bobpony.com/updates/Windows%20XP/)
+* [Windows XP SP2 x86](https://download.bobpony.com/updates/Windows%20XP/xpsp2_33a8fef60d48ae1f2c4feea27111af5ceca3c4f6.exe)
+* [Windows XP SP3 x86](https://download.bobpony.com/updates/Windows%20XP/windowsxp-kb936929-sp3-x86-enu_c81472f7eeea2eca421e116cd4c03e2300ebfde4.exe)
 ## [Windows XP 64-bit Edition/Server 2003 x64](https://download.bobpony.com/updates/Windows%20Server%202003%20and%20XP%20x64/)
 * [Service Pack 2](https://download.bobpony.com/updates/Windows%20Server%202003%20and%20XP%20x64/WindowsServer2003.WindowsXP-KB914961-SP2-x64-ENU.exe)
 
@@ -121,11 +148,24 @@ Please note this GUI is for convience and may not be as up to date on https://do
 * [Windows 8.1 with Bing 32-bit EN-US](https://download.bobpony.com/windows/8.1/Windows%208.1%20with%20Bing%2032%20bit.7z)
 * [Windows 8.1 with Bing 64-bit EN-US](https://download.bobpony.com/windows/8.1/Windows%208.1%20with%20Bing%2064%20bit.7z)
 ## [Windows 10](https://download.bobpony.com/windows/10/)
+* [Windows 10 Enterprise 2015 LTSB x86](https://download.bobpony.com/windows/10/en_windows_10_enterprise_2015_ltsb_x86_dvd_6848454.iso)
+* [Windows 10 Enterprise 2015 LTSB x64](https://download.bobpony.com/windows/10/en_windows_10_enterprise_2015_ltsb_x64_dvd_6848446.iso)
+* [Windows 10 Enterprise 2016 LTSB x86](https://download.bobpony.com/windows/10/en_windows_10_enterprise_2016_ltsb_x86_dvd_9060010.iso)
+* [Windows 10 Enterprise 2016 LTSB x64](https://download.bobpony.com/windows/10/en_windows_10_enterprise_2016_ltsb_x64_dvd_9059483.iso
 ## [Windows Server Family](https://download.bobpony.com/windows/server/)
 ### [Windows Server 2003](https://download.bobpony.com/windows/server/2003/)
-* [Windows Server 2003 SP2 x86](https://download.bobpony.com/windows/server/2003/Windows%20Server%202003%20x86%20SP2.iso)
+* [Windows Server 2003 Web with SP2 x86](https://download.bobpony.com/windows/server/2003/en_win_srv_2003_web_with_sp2_vl_x13-42999.zip)
+* [Windows Server 2003 Web with SP1 x86](https://download.bobpony.com/windows/server/2003/en_windows_server_2003_with_sp1_web.zip)
+* [Windows Server 2003 Standard with SP1 x86](https://download.bobpony.com/windows/server/2003/en_windows_server_2003_with_sp1_standard.zip)
+* [Windows Server 2003 Enterprise with SP1](https://download.bobpony.com/windows/server/2003/en_windows_server_2003_with_sp1_enterprise.zip)
+* [Windows Server 2003 Enterprise with SP1 ia64](https://download.bobpony.com/windows/server/2003/en_windows_server_2003_with_sp1_enterprise_ia64_dvd.zip)
 ### [Windows Server 2003 R2](https://download.bobpony.com/windows/server/2003r2/)
-* [Windows Server 2003 R2 SP2 x86](https://download.bobpony.com/windows/server/2003r2/Windows%20Server%202003%20R2%20SP2%20x86.zip)
+* [Windows Server 2003 R2 Standard with SP2 x86](https://download.bobpony.com/windows/server/2003r2/en_win_srv_2003_r2_standard_with_sp2_cd1_cd2.zip)
+* [Windows Server 2003 R2 Standard with SP2 x64](https://download.bobpony.com/windows/server/2003r2/en_win_srv_2003_r2_standard_x64_with_sp2_cd1_cd2.zip)
+* [Windows Server 2003 R2 Enterprise with SP2 x86](https://download.bobpony.com/windows/server/2003r2/en_win_srv_2003_r2_enterprise_with_sp2_cd1_cd2.zip)
+* [Windows Server 2003 R2 Enterprise with SP2 x64](https://download.bobpony.com/windows/server/2003r2/en_win_srv_2003_r2_enterprise_x64_with_sp2_cd1_cd2.zip)
+* [Windows Server 2003 R2 Datacenter with SP2 VL x86](https://download.bobpony.com/windows/server/2003r2/en_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_cd2.zip)
+* [Windows Server 2003 R2 Datacenter with SP2 VL x64](https://download.bobpony.com/windows/server/2003r2/en_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd1_cd2.zip)
 ### [Windows Server 2008 R1](https://download.bobpony.com/windows/server/2008/)
 * [Windows Server 2008 R1 with SP2 x86 EN-US](https://download.bobpony.com/windows/server/2008/en_windows_server_2008_with_sp2_x64_dvd_342336-025.iso)
 * [Windows Server 2008 R1 with SP2 x64 EN-US](https://download.bobpony.com/windows/server/2008/en_windows_server_2008_with_sp2_x64_dvd_342336-025.iso)
@@ -143,6 +183,9 @@ Please note this GUI is for convience and may not be as up to date on https://do
 * [Windows Whistler (XP)](https://download.bobpony.com/windows/beta/whistler/)
 * [Windows Longhorn (Vista)](https://download.bobpony.com/windows/beta/longhorn/)
 * [Windows 7](https://download.bobpony.com/windows/beta/7/)
+
+# VM Tools (NEW!)
+* [Hyper-V Guest Integration Services (From Server 2012 R2)](https://download.bobpony.com/vmtools/hyperv/vmguest.iso)
 
 # TODO
 Complete this with more links
