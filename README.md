@@ -1,5 +1,5 @@
-# download.bobpony.com GUI (Community)
-Please note this GUI is for convience and may not be as up to date on https://download.bobpony.com
+# [download.bobpony.com](https://download.bobpony.com) GUI (Community)
+Please note this is made for convenience, may not be as up to date.
 
 # [Drivers](https://download.bobpony.com/drivers/)
 ## [Audio](https://download.bobpony.com/drivers/audio/)
@@ -151,7 +151,7 @@ Please note this GUI is for convience and may not be as up to date on https://do
 * [Windows 10 Enterprise 2015 LTSB x86](https://download.bobpony.com/windows/10/en_windows_10_enterprise_2015_ltsb_x86_dvd_6848454.iso)
 * [Windows 10 Enterprise 2015 LTSB x64](https://download.bobpony.com/windows/10/en_windows_10_enterprise_2015_ltsb_x64_dvd_6848446.iso)
 * [Windows 10 Enterprise 2016 LTSB x86](https://download.bobpony.com/windows/10/en_windows_10_enterprise_2016_ltsb_x86_dvd_9060010.iso)
-* [Windows 10 Enterprise 2016 LTSB x64](https://download.bobpony.com/windows/10/en_windows_10_enterprise_2016_ltsb_x64_dvd_9059483.iso
+* [Windows 10 Enterprise 2016 LTSB x64](https://download.bobpony.com/windows/10/en_windows_10_enterprise_2016_ltsb_x64_dvd_9059483.iso)
 ## [Windows Server Family](https://download.bobpony.com/windows/server/)
 ### [Windows Server 2003](https://download.bobpony.com/windows/server/2003/)
 * [Windows Server 2003 Web with SP2 x86](https://download.bobpony.com/windows/server/2003/en_win_srv_2003_web_with_sp2_vl_x13-42999.zip)
@@ -184,7 +184,7 @@ Please note this GUI is for convience and may not be as up to date on https://do
 * [Windows Longhorn (Vista)](https://download.bobpony.com/windows/beta/longhorn/)
 * [Windows 7](https://download.bobpony.com/windows/beta/7/)
 
-# VM Tools (NEW!)
+# [VM Tools](https://download.bobpony.com/vmtools/) (NEW!)
 * [Hyper-V Guest Integration Services (From Server 2012 R2)](https://download.bobpony.com/vmtools/hyperv/vmguest.iso)
 
 # TODO
