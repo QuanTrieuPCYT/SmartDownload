@@ -20,6 +20,14 @@
         "USB Storage for Windows 98": {
             "33e": "https://download.bobpony.com/drivers/usbstorage/nusb33e.exe",
             "36e": "https://download.bobpony.com/drivers/usbstorage/nusb36e.exe"
+        },
+        "NVIDIA GPU Drivers": {
+            "Win9x": "https://download.bobpony.com/drivers/gpu/nvidia9x/",
+            "Win2K/XP": "https://download.bobpony.com/drivers/gpu/nvidia2kxp/"
+        },
+        "ATI/AMD GPU Drivers": {
+            "Win9x": "https://download.bobpony.com/drivers/gpu/ati9x/",
+            "Win2K/XP": "https://download.bobpony.com/drivers/gpu/ati2kxp/"
         }
     },
     "Games": {
@@ -115,7 +123,45 @@
             "Office 2003 Standard": "https://download.bobpony.com/software/msoffice/2003/en_office_2003_std.iso",
             "Office 2003 Pro": "https://download.bobpony.com/software/msoffice/2003/en_office_2003_pro.iso",
             "Office 2003 Pro Enterprise x86": "https://download.bobpony.com/software/msoffice/2003/en_office_professional_enterprise_edition_2003_united_states_x86_cd_489281.iso",
+			"Office 2007 Pro Plus x86": "https://download.bobpony.com/software/msoffice/2007/en_office_professional_plus_2007_cd_x12-38663.iso",
+			"Office 2007 Ultimate x86": "https://download.bobpony.com/software/msoffice/2007/en_office_ultimate_2007_dvd_x12-22244.iso",
+			"Office 2010 Standard x86": "https://download.bobpony.com/software/msoffice/2010/en_office_standard_2010_x86_515544.zip",
+			"Office 2010 Standard x64": "https://download.bobpony.com/software/msoffice/2010/en_office_standard_2010_x64_515548.zip",
+			"Office 2013 Pro Plus with SP1 x64 and x86": "https://download.bobpony.com/software/msoffice/2013/en_office_professional_plus_2013_with_sp1_x86_and_x64_dvd_3928186.iso",
+			"Office 2016 Pro Plus x64 and x86": "https://download.bobpony.com/software/msoffice/2016/en_office_professional_plus_2016_x86_x64_dvd_6962141.iso",
+			"Office 2019 Pro Plus x64 and x86": "https://download.bobpony.com/software/msoffice/2019/en_office_professional_plus_2019_x86_x64_dvd_7ea28c99.iso",
             "TODO: Fill out the rest of the links": ""
+        },
+		"Microsoft Plus!": {
+            "for Windows 95": "https://download.bobpony.com/software/msplus/Microsoft%20Plus%21%20for%20Windows%2095.iso",
+            "for Kids": "https://download.bobpony.com/software/msplus/Microsoft%20Plus%21%20For%20Kids.iso",
+            "for Windows 98": "https://download.bobpony.com/software/msplus/Microsoft%20Plus%21%20for%20Windows%2095.iso",
+            "for Windows XP": "https://download.bobpony.com/software/msplus/Microsoft%20Plus%21%20For%20Windows%20XP.iso",
+            "XP SuperPack": "https://download.bobpony.com/software/msplus/Microsoft%20Plus%21%20XP%20Superpack.zip",
+            "Digital Media Edition": "https://download.bobpony.com/software/msplus/Microsoft%20Plus%21%20Digital%20Media%20Edition.iso",
+            "Game Pack - Cards and Puzzles": "https://download.bobpony.com/software/msplus/Microsoft%20Plus%21%20Game%20Pack%20-%20Cards%20And%20Puzzles.iso"
+        },
+		"Utilities": {
+            "AIDA32 3.93": "https://download.bobpony.com/software/utilities/aida32pe_393.zip"
+        },
+		"Virtualization": {
+
+        },
+		"Windows (Live) Essentials": {
+            "2009 (English)": "https://download.bobpony.com/software/wle/2009/wlsetup-all-en.exe",
+            "2011 (English)": "https://download.bobpony.com/software/wle/2011/wlsetup-all-en.exe",
+            "2012 (English)": "https://download.bobpony.com/software/wle/2012/wlsetup-all-english.exe"
+        },
+		"Windows Movie Maker": {
+            "2.6": "https://download.bobpony.com/software/wmm/MM26_ENU.msi",
+            "6.0": "https://download.bobpony.com/software/wmm/wmminst.exe"
+        },
+		"Windows Media Player": {
+            "7": "https://download.bobpony.com/software/wmp/WMP7.zip",
+            "8": "https://download.bobpony.com/software/wmp/WMP8.zip",
+            "9": "https://download.bobpony.com/software/wmp/WMP9.zip",
+            "10": "https://download.bobpony.com/software/wmp/WMP10.zip",
+            "11": "https://download.bobpony.com/software/wmp/WMP11.zip"
         },
         "TODO: Fill out the rest of the links": {
 
