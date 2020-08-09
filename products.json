@@ -124,7 +124,7 @@
             "Office 2003 Pro": "https://download.bobpony.com/software/msoffice/2003/en_office_2003_pro.iso",
             "Office 2003 Pro Enterprise x86": "https://download.bobpony.com/software/msoffice/2003/en_office_professional_enterprise_edition_2003_united_states_x86_cd_489281.iso",
             "Office XP Pro": "https://download.bobpony.com/software/msoffice/xp/en_office_xp_pro.iso",
-            "Office XP with SP3": "https://download.bobpony.com/software/msoffice/xp/en_office_xp_sp3.iso",
+            "Office XP SP3 Update": "https://download.bobpony.com/software/msoffice/xp/en_office_xp_sp3.iso",
             "Office 2007 Pro Plus x86": "https://download.bobpony.com/software/msoffice/2007/en_office_professional_plus_2007_cd_x12-38663.iso",
 			"Office 2007 Ultimate x86": "https://download.bobpony.com/software/msoffice/2007/en_office_ultimate_2007_dvd_x12-22244.iso",
 			"Office 2010 Standard x86": "https://download.bobpony.com/software/msoffice/2010/en_office_standard_2010_x86_515544.zip",
@@ -174,7 +174,7 @@
             "9": "https://download.bobpony.com/software/wmp/WMP9.zip",
             "10": "https://download.bobpony.com/software/wmp/WMP10.zip",
             "11": "https://download.bobpony.com/software/wmp/WMP11.zip",
-            "WMP Toys": "https://download.bobpony.com/software/wmp/wmptoys.exe"
+            "WMP 7 Toys": "https://download.bobpony.com/software/wmp/wmptoys.exe"
         }
     },
     "Updates": {
@@ -203,7 +203,7 @@
     },
     "VM Tools": {
         "HyperV": {
-            "Guest Integration for 8.1 and older": "https://download.bobpony.com/vmtools/hyperv/vmguest.iso"
+            "Guest Integration Services for Windows XP to 8.1": "https://download.bobpony.com/vmtools/hyperv/vmguest.iso"
         },
         "VMware Tools": {
             "VMware Tools 6.5": "https://download.bobpony.com/vmtools/vmware/vmware-6-5-driver-package.zip",
@@ -216,7 +216,6 @@
             "20H1 x86 (All editions)": "https://download.bobpony.com/windows/10/19041.421.200722-1935.VB_RELEASE_SVC_PROD3_CLIENTMULTI_X86FRE_EN-US.ISO",
             "20H1 x64 (All editions)": "https://download.bobpony.com/windows/10/19041.421.200722-2224.VB_RELEASE_SVC_PROD3_CLIENTMULTI_X64FRE_EN-US.ISO",
             "20H1 ARM64 (All editions)": "https://download.bobpony.com/windows/10/19041.421.200722-2020.VB_RELEASE_SVC_PROD3_CLIENTMULTI_A64FRE_EN-US.ISO",
-            "20H2 (Prerelease) Pro x64": "https://download.bobpony.com/windows/10/20161.1000.200627-1754.RS_PRERELEASE_CLIENTPRO_OEMRET_X64FRE_EN-GB.ISO",
             "LTSB 2016 x86": "https://download.bobpony.com/windows/10/en_windows_10_enterprise_2016_ltsb_x86_dvd_9060010.iso",
             "LTSB 2016 x64": "https://download.bobpony.com/windows/10/en_windows_10_enterprise_2016_ltsb_x64_dvd_9059483.iso",
             "LTSC 2019 x86": "https://download.bobpony.com/windows/10/en_windows_10_enterprise_ltsc_2019_x86_dvd_892869c9.iso",
