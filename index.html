@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: https://ogp.me/ns#">
+    <head>
+        <title>Downloads - Bob Pony</title>
+        <meta property="og:title" content="Downloads - Bob Pony">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://downloadui.bobpony.com">
+        <meta property="og:description" content="Easily download software you want from Bob Pony's huge software collection!">
+        <link rel="stylesheet" href="/main.css">
+    </head>
+    <body>
+        <div class="container">
+            <div>
+                <h1>Downloader UI</h1>
+                <p>For Bob Pony, designed by Okame.</p>
+                <p>
+                    <select name="Product type" id="type" onchange="updateVersions()">
+                        <option disabled selected value="placeholder">---- Choose category ----</option>
+                    </select>
+                </p>
+                <p>
+                    <select name="Product version" id="version" onchange="updateEditions()">
+                        <option disabled selected value="placeholder">---- Choose version/type ----</option>
+                    </select>
+                </p>
+                <p>
+                    <select name="Product edition" id="edition" onchange="updateURL()">
+                        <option disabled selected value="placeholder">---- Choose option ----</option>
+                    </select>
+                </p>
+                <p id="downloadP">
+                    <a id="download">DOWNLOAD</a>
+                </p>
+                <p>Want to help us out with the site? <a href="https://github.com/TheBobPony/BPDownloadsGUI">Check out the repo!</a></p>
+            </div>
+        </div>
+    
+        <!-- Script tags here! -->
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+        <script src="/listing.js"></script>
+    </body>
+</html>
