@@ -1,0 +1,248 @@
+{
+    "Drivers": {
+        "Audio": {
+            "SoundBlaster Basic DOS": "https://download.bobpony.com/drivers/audio/sbbasicdos.zip",
+            "SoundBlaster Live DOS": "https://download.bobpony.com/drivers/audio/SBLiveDOSDriver.zip",
+            "SoundBlaster (for Windows 9x and up)": "https://download.bobpony.com/drivers/audio/sbw9xup.exe",
+            "SoundBlaster 95": "https://download.bobpony.com/drivers/audio/95dosapp.exe"
+        },
+        "Chipset (Intel)": {
+            "3.20.1008": "https://download.bobpony.com/drivers/chipset/intel/3.20.1008.zip",
+            "4.10.1012": "https://download.bobpony.com/drivers/chipset/intel/4.10.1012.zip",
+            "5.02.1003": "https://download.bobpony.com/drivers/chipset/intel/5.02.1003.zip",
+            "6.2.1.1001": "https://download.bobpony.com/drivers/chipset/intel/6.2.1.1001.zip",
+            "6.3.0.1007": "https://download.bobpony.com/drivers/chipset/intel/6.3.0.1007.zip",
+            "PIIX IDE Bus driver for Windows 95 (version 3.00)": "https://download.bobpony.com/drivers/chipset/intel/intel_piix_bus_master_ide_driver_w95_version_3.00.zip"
+        },
+        "Network": {
+            "Realtek 8139": "https://download.bobpony.com/drivers/network/Realtek8139.zip"
+        },
+        "USB Storage for Windows 98": {
+            "33e": "https://download.bobpony.com/drivers/usbstorage/nusb33e.exe",
+            "36e": "https://download.bobpony.com/drivers/usbstorage/nusb36e.exe"
+        }
+    },
+    "Games": {
+        "Windows": {
+            "After Dark Games": "https://download.bobpony.com/games/After%20Dark%20Games.iso",
+            "Angry Birts 1.5.2": "https://download.bobpony.com/games/AngryBirdsInstaller_1.5.2-1.exe",
+            "Full Tilt Pinball": "https://download.bobpony.com/games/Full-Tilt-Pinball_Win_EN_ISO-Version.zip"
+        }
+    },
+    "macOS": {
+        "Classic": {
+            "Mac OS 9.0.0": "https://download.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
+            "Mac OS 9.0.4": "https://download.bobpony.com/macos/classic/Mac_OS_9.0.4.toast_.zip",
+            "Mac OS 9.1.0": "https://download.bobpony.com/macos/classic/Mac_OS_9.1.0.toast_.zip",
+            "Mac OS 9.2.1": "https://download.bobpony.com/macos/classic/Mac_OS_9.2.1.toast_.zip",
+            "PowerMac G4 9.2": "https://download.bobpony.com/macos/classic/Power_Mac_G4_Install_9.2.toast_.zip"
+        },
+        "Puma": {
+            "Mac OS X 10.1 (5J34)": "https://download.bobpony.com/macos/puma/Apple%20Mac%20OS%20X%2010.1%20%2810.1.5J34%29.7z"
+        },
+        "Jaguar": {
+            "Mac OS X 10.2 (6C115)": "https://download.bobpony.com/macos/jaguar/Apple%20Mac%20OS%20X%2010.2%20%2810.2.6C115%29.7z",
+            "Mac OS X 10.2.7 (6S80) for PowerMac G5": "https://download.bobpony.com/macos/jaguar/Apple%20Mac%20OS%20X%2010.2.7%20%2810.2.7.6S80%29%20PowerMac%20G5.7z"
+        },
+        "Panther": {
+            "CD 1": "https://download.bobpony.com/macos/panther/Panther_CD1.toast_.zip",
+            "CD 2": "https://download.bobpony.com/macos/panther/Panther_CD2.toast_.zip",
+            "CD 3": "https://download.bobpony.com/macos/panther/Panther_CD3.toast__0.zip"
+        },
+        "Tiger": {
+            "CD 1": "https://download.bobpony.com/macos/tiger/Tiger_CD1.toast_.zip",
+            "CD 2": "https://download.bobpony.com/macos/tiger/Tiger_CD2.toast_.zip",
+            "CD 3": "https://download.bobpony.com/macos/tiger/Tiger_CD3.toast_.zip",
+            "CD 4": "https://download.bobpony.com/macos/tiger/Tiger_CD4.toast_.zip"
+        }
+    },
+    "Miscellaneous": {
+        "iOS 14": {
+            "iOS 14 Beta Profile": "https://download.bobpony.com/misc/ios14/iOS_14_Beta_Profile.mobileconfig"
+        }
+    },
+    "Software": {
+        ".NET Framework": {
+            ".NET Framework 2.0": "https://download.bobpony.com/software/dotnet/2.0/dotnetfx.exe",
+            ".NET Framework 3.5": "https://download.bobpony.com/software/dotnet/dotnetfx35.exe",
+            ".NET Framework 4.0": "https://download.bobpony.com/software/dotnet/dotNetFx40_Full_x86_x64.exe",
+            ".NET Framework 4.6.1": "https://download.bobpony.com/software/dotnet/NDP461-KB3102436-x86-x64-AllOS-ENU.exe",
+            ".NET Framework 4.8 (Web Installer)": "https://download.bobpony.com/software/dotnet/ndp48-web.exe"
+        },
+        "DirectX": {
+            "DirectX 6": "https://download.bobpony.com/software/dx/DX6.zip",
+            "DirectX 7": "https://download.bobpony.com/software/dx/DX7.zip",
+            "DirectX 8": "https://download.bobpony.com/software/dx/DX8.7z",
+            "DirectX 9 (December 2006)": "https://download.bobpony.com/software/dx/DX9/directx_dec2006_redist.exe",
+            "DirectX (June 2010)": "https://download.bobpony.com/software/dx/directx_Jun2010_redist.zip"
+        },
+        "Internet Explorer": {
+            "IE 1": "https://download.bobpony.com/software/ie/IE1.zip",
+            "IE 1.5": "https://download.bobpony.com/software/ie/IE1.5.zip",
+            "IE 2": "https://download.bobpony.com/software/ie/IE2.zip",
+            "IE 3": "https://download.bobpony.com/software/ie/3/ie3.exe",
+            "IE 3.0.1": "https://download.bobpony.com/software/ie/3/msie301.exe",
+            "IE 3.0.1 for Windows 3.11": "https://download.bobpony.com/software/ie/3/msie301w311.exe",
+            "IE 3.0.2 for Windows 95": "https://download.bobpony.com/software/ie/3/msie302w95.exe",
+            "IE 3.0.2 for Windows NT": "https://download.bobpony.com/software/ie/3/msie302wnt.exe",
+            "IE 4": "https://download.bobpony.com/software/ie/4/IE4.zip",
+            "IE 4.0.1 SP1": "https://download.bobpony.com/software/ie/4/ie401sp1.exe",
+            "IE 4 SP2": "https://download.bobpony.com/software/ie/4/IE4SP2.zip",
+            "IE 5": "https://download.bobpony.com/software/ie/IE5.zip",
+            "IE 6": "https://download.bobpony.com/software/ie/6/en_ie6.exe",
+            "IE 7 for Server 2003 IA64": "https://download.bobpony.com/software/ie/7/en_ie7_for_win_srv_2003_ia64.exe",
+            "IE 7 for Server 2003 x64": "https://download.bobpony.com/software/ie/7/en_ie7_for_win_srv_2003_x64.exe",
+            "IE 7 for Server 2003 SP1 or SP2 x86": "https://download.bobpony.com/software/ie/7/en_ie7_for_win_srv_2003_sp1_or_sp2_x86.exe",
+            "IE 7 for Windows XP SP2 x86": "https://download.bobpony.com/software/ie/7/en_ie7_for_win_xp_sp2_x86.exe",
+            "IE 8 for Server 2003 x86": "https://download.bobpony.com/software/ie/8/en_windows_internet_explorer_8_for_windows_server_2003_x86.exe",
+            "IE 8 for Windows XP x86": "https://download.bobpony.com/software/ie/8/en_windows_internet_explorer_8_for_windows_xp_x86.exe",
+            "IE 8 for Server 2003 and XP Pro x64": "https://download.bobpony.com/software/ie/8/en_windows_internet_explorer_8_for_windows_server_2003_sp2_and_windows_xp_professional_x64.exe",
+            "IE 8 for Server 2008 and Windows Vista x86": "https://download.bobpony.com/software/ie/8/en_windows_internet_explorer_8_for_windows_vista_and_windows_server_2008_x86.exe",
+            "IE 8 for Server 2008 and Windows Vista x64": "https://download.bobpony.com/software/ie/8/en_windows_internet_explorer_8_for_windows_vista_and_windows_server_2008_x64.exe",
+            "IE 9 for Windows Vista x86": "https://download.bobpony.com/software/ie/9/IE9-WindowsVista-x86-enu-final.exe",
+            "IE 9 for Windows Vista x64": "https://download.bobpony.com/software/ie/9/IE9-WindowsVista-x64-enu-final.exe",
+            "IE 9 for Windows 7 x86": "https://download.bobpony.com/software/ie/9/IE9-Windows7-x86-enu.exe",
+            "IE 9 for Windows 7 x64": "https://download.bobpony.com/software/ie/9/IE9-Windows7-x64-enu-final.exe",
+            "IE 10 x86": "https://download.bobpony.com/software/ie/10/IE10-Windows6.1-x86-en-us.exe",
+            "IE 10 x64": "https://download.bobpony.com/software/ie/10/IE10-Windows6.1-x64-en-us.exe",
+            "IE 11 x86": "https://download.bobpony.com/software/ie/11/IE11-Windows6.1-x86-en-us.exe",
+            "IE 11 x64": "https://download.bobpony.com/software/ie/11/IE11-Windows6.1-x64-en-us.exe"
+        },
+        "Microsoft Office": {
+            "Office 95 Pro CD 1": "https://download.bobpony.com/software/msoffice/95/en_office_95_pro_cd1.exe",
+            "Office 95 Pro CD 2": "https://download.bobpony.com/software/msoffice/95/en_office_95_pro_cd2.exe",
+            "Office 97 Pro": "https://download.bobpony.com/software/msoffice/97/Office_97_Professional.iso",
+            "Office 2003 Standard": "https://download.bobpony.com/software/msoffice/2003/en_office_2003_std.iso",
+            "Office 2003 Pro": "https://download.bobpony.com/software/msoffice/2003/en_office_2003_pro.iso",
+            "Office 2003 Pro Enterprise x86": "https://download.bobpony.com/software/msoffice/2003/en_office_professional_enterprise_edition_2003_united_states_x86_cd_489281.iso",
+            "TODO: Fill out the rest of the links": ""
+        },
+        "TODO: Fill out the rest of the links": {
+
+        }
+    },
+    "Updates": {
+        "Windows 2000": {
+            "SP1": "https://download.bobpony.com/updates/Windows%202000/Windows%202000%20Service%20Pack%201.7z",
+            "SP2": "https://download.bobpony.com/updates/Windows%202000/Windows%202000%20Service%20Pack%202.7z",
+            "SP3": "https://download.bobpony.com/updates/Windows%202000/Windows%202000%20Service%20Pack%203.7z",
+            "SP4": "https://download.bobpony.com/updates/Windows%202000/Windows%202000%20Service%20Pack%204.7z"
+        },
+        "Windows NT 4.0": {
+            "SP1": "https://download.bobpony.com/updates/Windows%20NT%204.0/Windows%20NT%204.0%20Service%20Pack%201.7z",
+            "SP2": "https://download.bobpony.com/updates/Windows%20NT%204.0/Windows%20NT%204.0%20Service%20Pack%202.7z",
+            "SP3": "https://download.bobpony.com/updates/Windows%20NT%204.0/Windows%20NT%204.0%20Service%20Pack%203.7z",
+            "SP4": "https://download.bobpony.com/updates/Windows%20NT%204.0/Windows%20NT%204.0%20Service%20Pack%204.7z",
+            "SP5": "https://download.bobpony.com/updates/Windows%20NT%204.0/Windows%20NT%204.0%20Service%20Pack%205.7z",
+            "SP6a": "https://download.bobpony.com/updates/Windows%20NT%204.0/Windows%20NT%204.0%20Service%20Pack%206a.7z",
+            "USB Support Patch": "https://download.bobpony.com/updates/Windows%20NT%204.0/Windows%20NT%204.0%20USB%20Support%20Patch.7z"
+        },
+        "Windows Server 2003 and XP x64": {
+            "SP2": "https://download.bobpony.com/updates/Windows%20Server%202003%20and%20XP%20x64/WindowsServer2003.WindowsXP-KB914961-SP2-x64-ENU.exe"
+        },
+        "Windows XP": {
+            "SP2": "https://download.bobpony.com/updates/Windows%20XP/xpsp2_33a8fef60d48ae1f2c4feea27111af5ceca3c4f6.exe",
+            "SP3": "https://download.bobpony.com/updates/Windows%20XP/windowsxp-kb936929-sp3-x86-enu_c81472f7eeea2eca421e116cd4c03e2300ebfde4.exe"
+        }
+    },
+    "VM Tools": {
+        "HyperV": {
+            "Guest Integration for 8.1 and older": "https://download.bobpony.com/vmtools/hyperv/vmguest.iso"
+        },
+        "VMware Tools": {
+            "VMware Tools 6.5": "https://download.bobpony.com/vmtools/vmware/vmware-6-5-driver-package.zip",
+            "VMware Tools 6.5.2": "https://download.bobpony.com/vmtools/vmware/vmware-6-5-2-driver-package.zip",
+            "VMware Tools 7.0": "https://download.bobpony.com/vmtools/vmware/vmware-7-0-driver-package.zip"
+        }
+    },
+    "Windows": {
+        "10": {
+            "20H1 x86 (All editions)": "https://download.bobpony.com/windows/10/19041.421.200722-1935.VB_RELEASE_SVC_PROD3_CLIENTMULTI_X86FRE_EN-US.ISO",
+            "20H1 x64 (All editions)": "https://download.bobpony.com/windows/10/19041.421.200722-2224.VB_RELEASE_SVC_PROD3_CLIENTMULTI_X64FRE_EN-US.ISO",
+            "20H1 ARM64 (All editions)": "https://download.bobpony.com/windows/10/19041.421.200722-2020.VB_RELEASE_SVC_PROD3_CLIENTMULTI_A64FRE_EN-US.ISO",
+            "20H2 (Prerelease) Pro x64": "https://download.bobpony.com/windows/10/20161.1000.200627-1754.RS_PRERELEASE_CLIENTPRO_OEMRET_X64FRE_EN-GB.ISO",
+            "LTSB 2016 x86": "https://download.bobpony.com/windows/10/en_windows_10_enterprise_2016_ltsb_x86_dvd_9060010.iso",
+            "LTSB 2016 x64": "https://download.bobpony.com/windows/10/en_windows_10_enterprise_2016_ltsb_x64_dvd_9059483.iso",
+            "LTSC 2019 x86": "https://download.bobpony.com/windows/10/en_windows_10_enterprise_ltsc_2019_x86_dvd_892869c9.iso",
+            "LTSC 2019 x64": "https://download.bobpony.com/windows/10/en_windows_10_enterprise_ltsc_2019_x64_dvd_5795bb03.iso"
+        },
+        "8.1": {
+            "x86": "https://download.bobpony.com/windows/8.x/8.1/en_windows_8.1_with_update_x86_dvd_6051550.iso",
+            "x64": "https://download.bobpony.com/windows/8.x/8.1/en_windows_8.1_with_update_x64_dvd_6051480.iso",
+            "x86 with Bing": "https://download.bobpony.com/windows/8.x/8.1/Windows%208.1%20with%20Bing%2032%20bit.7z",
+            "x64 with Bing": "https://download.bobpony.com/windows/8.x/8.1/Windows%208.1%20with%20Bing%2064%20bit.7z"
+        },
+        "Embedded 8": {
+            "Industry Pro x86": "https://download.bobpony.com/windows/8.x/8.0/embedded/en_windows_embedded_8_industry_pro_x86_dvd_1966344.iso",
+            "Industry Pro x64": "https://download.bobpony.com/windows/8.x/8.0/embedded/en_windows_embedded_8_industry_pro_x64_dvd_1966345.iso",
+            "Industry Pro Language Packs": "https://download.bobpony.com/windows/8.x/8.0/embedded/mu_windows_embedded_8_industry_pro_language_pack_x86_x64_dvd_1966340.iso",
+            "Image Builder for Standard x86": "https://download.bobpony.com/windows/8.x/8.0/embedded/en_windows_embedded_8_standard_image_builder_wizard_x86_dvd_1791545.iso",
+            "Image Builder for Standard x64": "https://download.bobpony.com/windows/8.x/8.0/embedded/en_windows_embedded_8_standard_image_builder_wizard_x64_dvd_1791542.iso"
+        },
+        "7": {
+            "x86 with SP1": "https://download.bobpony.com/windows/7/en_windows_7_with_sp1_x86.iso",
+            "x64 with SP1": "https://download.bobpony.com/windows/7/en_windows_7_with_sp1_x64.iso"
+        },
+        "Vista": {
+            "x86 DVD": "https://download.bobpony.com/windows/vista/en_windows_vista_x86_dvd_x12-34293.iso",
+            "x86 with SP1": "https://download.bobpony.com/windows/vista/en_windows_vista_with_service_pack_1_x86_dvd_x14-29594.iso",
+            "x64 with SP1": "https://download.bobpony.com/windows/vista/en_windows_vista_with_service_pack_1_x64_dvd_x14-29595.iso",
+            "x86 with SP2": "https://download.bobpony.com/windows/vista/en_windows_vista_with_sp2_x86_dvd_342266.iso",
+            "x64 with SP2": "https://download.bobpony.com/windows/vista/en_windows_vista_sp2_x64_dvd_342267.iso",
+            "Enterprise x86 with SP2": "https://download.bobpony.com/windows/vista/en_windows_vista_enterprise_sp2_x86_dvd_342329.iso",
+            "Enterprise x64 with SP2": "https://download.bobpony.com/windows/vista/en_windows_vista_enterprise_sp2_x64_dvd_342332.iso"
+        },
+        "XP": {
+            "Windows XP for Tablet PCs (VL keys)": "https://download.bobpony.com/windows/xp/en_win_xp_tabletpc_2005_vl.7z",
+            "Windows XP for Tablet PCs": "https://download.bobpony.com/windows/xp/en_winxp_tablet_2005.7z",
+            "Windows Fundamentals for Legacy PCs (SP2)": "https://download.bobpony.com/windows/xp/Windows%20Fundamentals%20for%20Legacy%20PCs%20SP2.iso",
+            "Windows XP Starter Edition (SP3)": "https://download.bobpony.com/windows/xp/Windows%20XP%20Starter%20Edition%20SP3.iso",
+            "Windows XP Embedded (SP2) CD 1": "https://download.bobpony.com/windows/xp/embedded/en_winxp_embedded_sp2_cd1.iso",
+            "Windows XP Embedded (SP2) CD 2": "https://download.bobpony.com/windows/xp/embedded/en_winxp_embedded_sp2_cd2.iso",
+            "Windows XP Embedded (SP2) CD 3": "https://download.bobpony.com/windows/xp/embedded/en_winxp_embedded_sp2_cd3.iso",
+            "Windows XP Home x86": "https://download.bobpony.com/windows/xp/home/en_winxp_home_x86_build2600.iso",
+            "Windows XP Home with SP2 x86": "https://download.bobpony.com/windows/xp/home/en_winxp_home_with_sp2.iso",
+            "Windows XP Home with SP3 x86": "https://download.bobpony.com/windows/xp/home/en_windows_xp_home_with_service_pack_3_x86_cd_x14-92413.iso",
+            "Windows XP Home N with SP3 x86": "https://download.bobpony.com/windows/xp/home/en_windows_xp_home_n_with_service_pack_3_x86_cd_x14-92393.iso",
+            "Windows XP Home K with SP3 x86": "https://download.bobpony.com/windows/xp/home/en_windows_xp_home_k_with_service_pack_3_x86_cd_x14-92386.iso",
+            "Windows XP Home KN with SP3 x86": "https://download.bobpony.com/windows/xp/home/en_windows_xp_home_kn_with_service_pack_3_x86_cd_x14-92388.iso",
+            "Windows XP Pro x86": "https://download.bobpony.com/windows/xp/professional/en_winxp_pro_x86_build2600_iso.img",
+            "Windows XP Pro x86 (VL keys)": "https://download.bobpony.com/windows/xp/professional/en_winxp_pro_vl_iso.img",
+            "Windows XP Pro x64 (VL keys)": "https://download.bobpony.com/windows/xp/professional/en_win_xp_pro_x64_vl.iso",
+            "Windows XP Pro N x86": "https://download.bobpony.com/windows/xp/professional/en_win_xp_pro_n.iso",
+            "Windows XP Pro N x86 (VL keys)": "https://download.bobpony.com/windows/xp/professional/en_win_xp_pro_n_vl.iso",
+            "Windows XP Pro with SP2 x86 (VL keys)": "https://download.bobpony.com/windows/xp/professional/en_win_xp_pro_with_sp2_vl.iso",
+            "Windows XP Pro with SP3 x86": "https://download.bobpony.com/windows/xp/professional/en_windows_xp_professional_with_service_pack_3_x86_cd_x14-80428.iso",
+            "Windows XP Pro with SP3 x86 (VL keys)": "https://download.bobpony.com/windows/xp/professional/en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974.iso",
+            "Windows XP Pro K with SP3 x86": "https://download.bobpony.com/windows/xp/professional/en_windows_xp_professional_k_with_service_pack_3_x86_cd_x14-92430.iso",
+            "Windows XP Pro KN with SP3 x86": "https://download.bobpony.com/windows/xp/professional/en_windows_xp_professional_kn_with_service_pack_3_x86_cd_x14-92432.iso",
+            "Windows XP Media Center Edition 2004": "https://download.bobpony.com/windows/xp/mce/en_winxp_mce_2004.iso",
+            "Windows XP Media Center Edition 2005": "https://download.bobpony.com/windows/xp/mce/en_winxp_mce_2005.7z"
+        },
+        "9x": {
+            "Windows 95 (4.00.950)": "https://download.bobpony.com/windows/9x/95/Microsoft%20Windows%2095%20%284.00.950%29.zip",
+            "Windows 95B (4.00.1111.osr2)": "https://download.bobpony.com/windows/9x/95/Microsoft%20Windows%2095B%20%284.00.1111.osr2%29.zip",
+            "Windows 95C (4.03.1216.osr2.5)": "https://download.bobpony.com/windows/9x/95/Microsoft%20Windows%2095C%20%284.03.1216.osr2.5%29.zip",
+            "Windows 98": "https://download.bobpony.com/windows/9x/98/Microsoft%20Windows%2098%20First%20Edition.7z",
+            "Windows 98 SE (4.10.2222)": "https://download.bobpony.com/windows/9x/98/Microsoft%20Windows%2098%20Second%20Edition%20%284.10.2222%29.rar",
+            "Windows Me (English)": "https://download.bobpony.com/windows/9x/Windows%20Me_en.zip"
+        },
+        "NT": {
+            "Windows NT 3.1 Advanced Server": "https://download.bobpony.com/windows/nt/Microsoft%20Windows%20NT%203.1%20Advanced%20Server%20%283.10.5098.1%29.rar",
+            "Windows NT 3.1 Workstation": "https://download.bobpony.com/windows/nt/Microsoft%20Windows%20NT%203.1%20Workstation%20%283.10.511.1%29.rar",
+            "Windows NT 3.5 Server": "https://download.bobpony.com/windows/nt/Microsoft%20Windows%20NT%203.5%20Server%20%283.50.800.1%29.rar",
+            "Windows NT 3.5 Workstation": "https://download.bobpony.com/windows/nt/Microsoft%20Windows%20NT%203.5%20Workstation%20%283.50.807%29.rar",
+            "Windows NT 3.51 Server": "https://download.bobpony.com/windows/nt/Microsoft%20Windows%20NT%203.51%20Server%20%283.51.1057.1%29.rar",
+            "Windows NT 3.51 Workstation": "https://download.bobpony.com/windows/nt/Microsoft%20Windows%20NT%203.51%20Workstation%20%283.51.1057.1%29%20%283.5%29.rar",
+            "Windows NT 4.0 Server": "https://download.bobpony.com/windows/nt/Microsoft%20Windows%20NT%204.0%20Server%20%284.00.1381.1%29.rar",
+            "Windows NT 4.0 Enterprise Server": "https://download.bobpony.com/windows/nt/Microsoft%20Windows%20NT%204.0%20Enterprise%20Server%20%284.00.1381.1%29.rar",
+            "Windows NT 4.0 Terminal Server": "https://download.bobpony.com/windows/nt/Microsoft%20Windows%20NT%204.0%20Terminal%20Server%20%28%27%27Hydra%27%27%204.00.1381.32772.sp3%29.rar",
+            "Windows NT 4.0 Workstation": "https://download.bobpony.com/windows/nt/Microsoft%20Windows%20NT%204.0%20Workstation%20%284.00.1381.1.sp1%29.rar",
+            "Windows NT 4.0 Embedded": "https://download.bobpony.com/windows/nt/Microsoft%20Windows%20NT%204.0%20Embedded%20%284.00.1381.204%29.rar"
+        },
+        "DOS-based Windows": {
+            "Windows 3.1": "https://download.bobpony.com/windows/windos/Windows%203.1.ISO",
+            "Windows 3.11": "https://download.bobpony.com/windows/windos/WFWG311.ISO"
+        }
+    }
+}
