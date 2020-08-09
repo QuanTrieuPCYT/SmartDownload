@@ -45,6 +45,6 @@ function updateURL() {
         const url = productList[typeObj.val()][versionObj.val()][editionObj.val()]
         downloadURL.prop("href", url)
     } else {
-        downloadURL.removeProp("href")
+        downloadURL.removeAttr("href")
     }
 }
