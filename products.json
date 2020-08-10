@@ -299,5 +299,50 @@
             "Windows 3.1": "https://download.bobpony.com/windows/windos/Windows%203.1.ISO",
             "Windows 3.11": "https://download.bobpony.com/windows/windos/WFWG311.ISO"
         }
+    },
+    "Windows Server": {
+        "Server 2003": {
+            "Enterprise with SP1 x86": "https://download.bobpony.com/windows/server/2003/en_windows_server_2003_with_sp1_enterprise.zip",
+            "Enterprise with SP1 ia64": "https://download.bobpony.com/windows/server/2003/en_windows_server_2003_with_sp1_enterprise_ia64_dvd.zip",
+            "Web with SP2 VL x86": "https://download.bobpony.com/windows/server/2003/en_win_srv_2003_web_with_sp2_vl_x13-42999.zip",
+            "Web with SP1 x86": "https://download.bobpony.com/windows/server/2003/en_windows_server_2003_with_sp1_web.zip",
+            "Standard with SP1 x86": "https://download.bobpony.com/windows/server/2003/en_windows_server_2003_with_sp1_standard.zip"
+        },
+        "Server 2003 R2": {
+            "Datacenter with SP2 VL x86": "https://download.bobpony.com/windows/server/2003r2/en_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_cd2.zip",
+            "Datacenter with SP2 VL x64": "https://download.bobpony.com/windows/server/2003r2/en_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd1_cd2.zip",
+            "Enterprise with SP2 x86": "https://download.bobpony.com/windows/server/2003r2/en_win_srv_2003_r2_enterprise_with_sp2_cd1_cd2.zip",
+            "Enterprise with SP2 x64": "https://download.bobpony.com/windows/server/2003r2/en_win_srv_2003_r2_enterprise_x64_with_sp2_cd1_cd2.zip",
+            "Standard with SP2 x86": "https://download.bobpony.com/windows/server/2003r2/en_win_srv_2003_r2_standard_with_sp2_cd1_cd2.zip",
+            "Standard with SP2 x64": "https://download.bobpony.com/windows/server/2003r2/en_win_srv_2003_r2_standard_x64_with_sp2_cd1_cd2.zip"
+        },
+        "Server 2008 R1": {
+            "Without Hyper-V with SP2 x64": "https://download.bobpony.com/windows/server/2008/en_windows_server_2008_datacenter_enterprise_standard_without_hyper-v_sp2_x64_dvd_342337-024.iso",
+            "Without Hyper-V with SP2 x86": "https://download.bobpony.com/windows/server/2008/en_windows_server_2008_datacenter_enterprise_standard_without_hyper-v_sp2_x86_dvd_342334.iso",
+            "With SP2 x64": "https://download.bobpony.com/windows/server/2008/en_windows_server_2008_with_sp2_x64_dvd_342336-025.iso",
+            "With SP2 x86": "https://download.bobpony.com/windows/server/2008/en_windows_server_2008_with_sp2_x86_dvd_342333.iso",
+            "Web with SP2 x64": "https://download.bobpony.com/windows/server/2008/en_windows_web_server_2008_x64_dvd_x14-26683-012.iso",
+            "Web with SP2 x86": "https://download.bobpony.com/windows/server/2008/en_windows_web_server_2008_x86_dvd_x14-26678.iso"
+        },
+        "Server 2008 R2": {
+            "With SP1 x64": "https://download.bobpony.com/windows/server/2008r2/en_windows_server_2008_r2_with_sp1_x64_dvd_617601-018.iso",
+            "With SP1 VL x64": "https://download.bobpony.com/windows/server/2008r2/en_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617403-020.iso"
+        },
+        "Server 2012 R1": {
+            "Retail x64": "https://download.bobpony.com/windows/server/2012/en_windows_server_2012_x64_dvd_915478-006.iso",
+            "VL x64": "https://download.bobpony.com/windows/server/2012/en_windows_server_2012_vl_x64_dvd_917758-005.iso",
+            "Language Pack": "https://download.bobpony.com/windows/server/2012/mu_windows_server_2012_language_pack_x64_dvd_917551.iso"
+        },
+        "Server 2012 R2": {
+            "Retail with Update x64": "https://download.bobpony.com/windows/server/2012r2/en_windows_server_2012_r2_with_update_x64_dvd_6052708-004.iso",
+            "VL with Update x64": "https://download.bobpony.com/windows/server/2012r2/en_windows_server_2012_r2_vl_with_update_x64_dvd_6052766-003.iso",
+            "Language Pack with Update": "https://download.bobpony.com/windows/server/2012r2/mu_windows_server_2012_r2_language_pack_with_update_x64_dvd_6066969-001.iso"
+        },
+        "Server 2016": {
+            "Updated Feb 2018 x64": "https://download.bobpony.com/windows/server/2016/en_windows_server_2016_updated_feb_2018_x64_dvd_11636692.iso"
+        },
+        "Server 2019": {
+            "Updated May 2020 x64": "https://download.bobpony.com/windows/server/2019/en_windows_server_2019_updated_may_2020_x64_dvd_5651846f.iso"
+        }
     }
 }
