@@ -224,6 +224,8 @@
         "8.1": {
             "x86": "https://download.bobpony.com/windows/8.x/8.1/en_windows_8.1_with_update_x86_dvd_6051550.iso",
             "x64": "https://download.bobpony.com/windows/8.x/8.1/en_windows_8.1_with_update_x64_dvd_6051480.iso",
+            "x86 Pre-Updated (May 2020)": "https://download.bobpony.com/windows/preupdated/Windows%208.1%20x86%20Updated%20May%202020.iso",
+            "x64 Pre-Updated (May 2020)": "https://download.bobpony.com/windows/preupdated/Windows%208.1%20x64%20Updated%20May%202020.iso",
             "x86 with Bing": "https://download.bobpony.com/windows/8.x/8.1/Windows%208.1%20with%20Bing%2032%20bit.7z",
             "x64 with Bing": "https://download.bobpony.com/windows/8.x/8.1/Windows%208.1%20with%20Bing%2064%20bit.7z"
         },
@@ -298,6 +300,14 @@
         "DOS-based Windows": {
             "Windows 3.1": "https://download.bobpony.com/windows/windos/Windows%203.1.ISO",
             "Windows 3.11": "https://download.bobpony.com/windows/windos/WFWG311.ISO"
+        },
+        "OEM Recovery Images": {
+            "ASUS E203M": "https://download.bobpony.com/windows/oemrecovery/ASUS%20E203M.7z",
+            "Compaq SR5130NX": "https://download.bobpony.com/windows/oemrecovery/Compaq%20SR5130NX.7z",
+            "IBM T60": "https://download.bobpony.com/windows/oemrecovery/IBM%20T60.7z"
+        },
+        "Preinstall Environment": {
+            "Windows 10 x64 PE": "https://download.bobpony.com/windows/pe/BPE.iso"
         }
     },
     "Windows Server": {
@@ -343,6 +353,42 @@
         },
         "Server 2019": {
             "Updated May 2020 x64": "https://download.bobpony.com/windows/server/2019/en_windows_server_2019_updated_may_2020_x64_dvd_5651846f.iso"
+        }
+    },
+    "Windows Betas": {
+        "Whistler (XP)": {
+            "5.00.2211 x86": "https://download.bobpony.com/windows/beta/whistler/5.00.2211.1.main.000309-1512_x86fre_client-professional_retail_en-us.7z",
+            "5.1.2233 x86": "https://download.bobpony.com/windows/beta/whistler/5.1.2223.1.main.000411-2307_x86fre_client-professional_retail_en-us.7z",
+            "5.1.2250 x86": "https://download.bobpony.com/windows/beta/whistler/5.1.2250.1.main.000628-2110_x86fre_client-professional_retail_en-us.7z",
+            "5.1.2267 x86": "https://download.bobpony.com/windows/beta/whistler/5.1.2267.1.idx01.000910-1316_x86fre_client-professional_retail_en-us.7z",
+            "5.1.2296 x86": "https://download.bobpony.com/windows/beta/whistler/5.1.2296.1.beta1.001024-1157_x86fre_client-professional_retail_en-us.7z",
+            "5.1.2410 x86": "https://download.bobpony.com/windows/beta/whistler/5.1.2410.1.main.001208-1937_x86fre_client-professional_retail_en-us.7z",
+            "5.1.2419 x86": "https://download.bobpony.com/windows/beta/whistler/5.1.2419.1.idx02.010113-1154_x86fre_client-professional_retail_en-us.7z",
+            "5.1.2428 x86": "https://download.bobpony.com/windows/beta/whistler/5.1.2428.1.idx01.010129-1827_x86fre_client-professional_retail_en-us.7z",
+            "5.1.2462 x86": "https://download.bobpony.com/windows/beta/whistler/5.1.2462.0.main.010315-1739_x86fre_client-professional_retail_en-us.7z",
+            "5.1.2474 x86": "https://download.bobpony.com/windows/beta/whistler/5.1.2474.0.main.010508-1907_x86fre_client-professional_retail_en-us.7z",
+            "5.1.2486 x86": "https://download.bobpony.com/windows/beta/whistler/5.1.2486.0.main.010602-1927_x86fre_client-professional_retail_en-us.7z",
+            "5.1.2495 x86": "https://download.bobpony.com/windows/beta/whistler/5.1.2495.0.main.010614-1724_x86fre_client-professional_retail_en-us.7z",
+            "5.1.2505 x86": "https://download.bobpony.com/windows/beta/whistler/5.1.2505.0.main.010626-1514_x86fre_client-professional_retail_en-us.7z",
+            "5.1.2526 x86": "https://download.bobpony.com/windows/beta/whistler/5.1.2526.0.xpclient.010724-1758_x86fre_client-professional_retail_en-us.7z",
+            "5.1.2542 x86": "https://download.bobpony.com/windows/beta/whistler/5.1.2542.0.xpclient.010811-1534_x86fre_client-professional_retail_en-us.7z"
+        },
+        "Longhorn (Vista) Pre-Reset": {
+            "6.0.3683 x86": "https://download.bobpony.com/windows/beta/longhorn/x86/6.0.3683.0.lab06_n.020923-1821_x86fre_client-professional_retail_en-us.7z",
+            "6.0.3706 x86": "https://download.bobpony.com/windows/beta/longhorn/x86/6.0.3706.0.lab06_n.021029-1731_x86fre_client-professional_retail_en-us.7z",
+            "6.0.3718 x86": "https://download.bobpony.com/windows/beta/longhorn/x86/6.0.3718.0.lab06_n.021119-1730_x86fre_client-professional_retail_en-us.7z",
+            "6.0.4001 x86": "https://download.bobpony.com/windows/beta/longhorn/x86/6.0.4001.0.main.021204-1515_x86fre_client-professional_en-us.7z",
+            "6.0.4015 x86": "https://download.bobpony.com/windows/beta/longhorn/x86/6.0.4015.0.main.030328-1500_x86fre_client-professional_en-us.7z",
+            "6.0.4029 x86": "https://download.bobpony.com/windows/beta/longhorn/x86/6.0.4029.0.main.030619-0000_x86fre_client-professional_retail_en-us.7z",
+            "6.0.4042 x86": "https://download.bobpony.com/windows/beta/longhorn/x86/6.0.4042.0.lab06_n.030909-1709_x86fre_client-professional_retail_en-us.7z",
+            "6.0.4074 x86": "https://download.bobpony.com/windows/beta/longhorn/x86/6.0.4074.0.idx02.040425-1535_x86fre_client-professional_retail_en-us.7z",
+            "6.0.4093 x86": "https://download.bobpony.com/windows/beta/longhorn/x86/6.0.4093.0.main.040819-1215_x86fre_client-professional_retail_en-us.7z"
+        },
+        "Longhorn (Vista) Post-Reset": {
+            "TODO: Fill these out": ""
+        },
+        "TODO: Fill out Windows 7, 8, and 10 (ARM32) builds.": {
+            
         }
     }
 }
