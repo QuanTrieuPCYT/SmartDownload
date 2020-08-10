@@ -276,6 +276,10 @@
             "Windows XP Media Center Edition 2004": "https://download.bobpony.com/windows/xp/mce/en_winxp_mce_2004.iso",
             "Windows XP Media Center Edition 2005": "https://download.bobpony.com/windows/xp/mce/en_winxp_mce_2005.7z"
         },
+        "2000": {
+            "Windows 2000 Professional with SP4": "https://download.bobpony.com/windows/2000/Windows%202000%20Professional%20SP4.ISO",
+            "Windows 2000 Server with SP4": "https://download.bobpony.com/windows/2000/EN_WIN2000_SRV_SP4.ISO"
+        },
         "9x": {
             "Windows 95 (4.00.950)": "https://download.bobpony.com/windows/9x/95/Microsoft%20Windows%2095%20%284.00.950%29.zip",
             "Windows 95B (4.00.1111.osr2)": "https://download.bobpony.com/windows/9x/95/Microsoft%20Windows%2095B%20%284.00.1111.osr2%29.zip",
@@ -339,6 +343,7 @@
             "With SP1 VL x64": "https://download.bobpony.com/windows/server/2008r2/en_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617403-020.iso"
         },
         "Server 2012 R1": {
+            "Hyper-V Server x64": "https://download.bobpony.com/windows/server/2012/en_microsoft_hyper-v_server_2012_x64_dvd_915600.iso",
             "Retail x64": "https://download.bobpony.com/windows/server/2012/en_windows_server_2012_x64_dvd_915478-006.iso",
             "VL x64": "https://download.bobpony.com/windows/server/2012/en_windows_server_2012_vl_x64_dvd_917758-005.iso",
             "Language Pack": "https://download.bobpony.com/windows/server/2012/mu_windows_server_2012_language_pack_x64_dvd_917551.iso"
@@ -352,7 +357,7 @@
             "Updated Feb 2018 x64": "https://download.bobpony.com/windows/server/2016/en_windows_server_2016_updated_feb_2018_x64_dvd_11636692.iso"
         },
         "Server 2019": {
-            "Updated May 2020 x64": "https://download.bobpony.com/windows/server/2019/en_windows_server_2019_updated_may_2020_x64_dvd_5651846f.iso"
+            "Updated July 2020 x64": "https://download.bobpony.com/windows/server/2019/en_windows_server_2019_updated_july_2020_x64_dvd_94453821.iso"
         }
     },
     "Windows Betas": {
