@@ -1,3 +1,5 @@
+<!-- To be clear, I don't think this should actually exist, you should just be normal and browse the open directory, or at the very least, this system should -->
+<!-- be automated to automatically reindex the downloads site. -- SunburntRock89 -->
 <!DOCTYPE html>
 <html lang="en" prefix="og: https://ogp.me/ns#">
     <head>
@@ -7,6 +9,7 @@
         <meta property="og:url" content="https://downloadui.bobpony.com">
         <meta property="og:description" content="Easily download software you want from Bob Pony's huge software collection!">
         <meta property="theme-color" content="#85fb65">
+        <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="./main.css">
     </head>
@@ -14,19 +17,19 @@
         <div class="container">
             <div>
                 <h1>Downloader UI</h1>
-                <p>For Bob Pony, designed by Okame.</p>
+                <p title="Code improved by SunburntRock89">For Bob Pony, designed by Okame.</p>
                 <p>
-                    <select name="Product type" id="type" onchange="updateVersions()">
+                    <select name="Product type" id="type" autocomplete="off" onchange="updateVersions()">
                         <option disabled selected value="placeholder">---- Choose category ----</option>
                     </select>
                 </p>
                 <p>
-                    <select name="Product version" id="version" onchange="updateEditions()">
+                    <select name="Product version" id="version" autocomplete="off" onchange="updateEditions()">
                         <option disabled selected value="placeholder">---- Choose version/type ----</option>
                     </select>
                 </p>
                 <p>
-                    <select name="Product edition" id="edition" onchange="updateURL()">
+                    <select name="Product edition" id="edition" autocomplete="off" onchange="updateURL()">
                         <option disabled selected value="placeholder">---- Choose option ----</option>
                     </select>
                 </p>

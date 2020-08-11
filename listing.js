@@ -1,50 +1,61 @@
-var productList = {}
-const typeObj = $("#type")
-const versionObj = $("#version")
-const editionObj = $("#edition")
-const downloadURL = $("#download")
+// Make sure you're not using IE in 2020
+const ua = window.navigator.userAgent;
+const msie = ua.indexOf("MSIE ");
 
-$.getJSON("/products.json", function (data) {
-    productList = data;
-    $("#loading").html("Ready!")
-    // Update the products list
-    
-    for (key in productList) {
-        typeObj.append(new Option(key, key))
-    }
-})
+if (msie > 0 || !!navigator.userAgent.match(/Trident.*rv:11\./)) window.location.href = "/iebad.html";
 
-function updateVersions() {
-    $("#version option").each(function () {
-        if (!$(this).prop("disabled")) {
-            $(this).remove()
-        }
-    })
-    $("#version option[value=\"placeholder\"]").prop("selected", true)
-    for (key in productList[typeObj.val()]) {
-        versionObj.append(new Option(key, key))
-    }
-    updateEditions()
-}
 
-function updateEditions() {
-    $("#edition option").each(function () {
-        if (!$(this).prop("disabled")) {
-            $(this).remove()
-        }
-    })
-    $("#edition option[value=\"placeholder\"]").prop("selected", true)
-    for (key in productList[typeObj.val()][versionObj.val()]) {
-        editionObj.append(new Option(key, key))
-    }
-    updateURL()
-}
+let productList = {};
 
-function updateURL() {
-    if (typeObj.val() && versionObj.val() && editionObj.val()) {
-        const url = productList[typeObj.val()][versionObj.val()][editionObj.val()]
-        downloadURL.prop("href", url)
-    } else {
-        downloadURL.removeAttr("href")
-    }
-}
+const typeObj = document.querySelector("#type");
+const versionObj = document.querySelector("#version");
+const editionObj = document.querySelector("#edition");
+const downloadURL = document.querySelector("#download");
+
+fetch("/products.json").then(data => data.json().then(products => {
+	productList = products;
+	for (const i in products) {
+		typeObj.append(new Option(i, i));
+	}
+}));
+
+const updateVersions = () => {
+	const versionOptions = document.querySelectorAll("#version option");
+
+	for (const i of versionOptions) {
+		if (!i.disabled) i.remove();
+	}
+
+	document.querySelector("#version option[value='placeholder']").selected = true;
+
+	for (const i in productList[typeObj.value]) {
+		versionObj.append(new Option(i, i));
+	}
+
+	updateEditions();
+};
+
+const updateEditions = () => {
+	let editionOptions = document.querySelectorAll("#edition option");
+	for (let i of editionOptions) {
+		if (!i.disabled) i.remove();
+	}
+
+	document.querySelector("#edition option[value='placeholder']").selected = true;
+
+	for (let i in productList[typeObj.value][versionObj.value]) {
+		editionObj.append(new Option(i, i));
+	}
+
+	updateURL();
+};
+
+const updateURL = () => {
+	if (typeObj.value && versionObj.value && editionObj.value) {
+		const url = productList[typeObj.value][versionObj.value][editionObj.value];
+		downloadURL.href = url;
+	} else {
+		downloadURL.removeAttr("href");
+		downloadURL.disabled = true;
+	}
+};
