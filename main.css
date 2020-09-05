@@ -7,7 +7,9 @@ body {
     background-color: #222222;
     color: white;
     font-family: 'Ubuntu', sans-serif;
-    margin: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    overflow: hidden;
 }
 
 .container {
