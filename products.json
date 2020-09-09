@@ -160,16 +160,16 @@
 		"Utilities": {
             "AIDA32 3.93": "https://dl.bobpony.com/software/utilities/aida32pe_393.zip"
         },
-		"Virtualization": {
-            "VMware Player 6.0.7": "https://dl.bobpony.com/software/virtualization/vmware/player/VMware-player-6.0.7-2844087.exe",
-            "VMware Player 12.0.1": "https://dl.bobpony.com/software/virtualization/vmware/player/VMware-player-12.0.1-3160714.exe",
-            "VMware Player 12.5.9": "https://dl.bobpony.com/software/virtualization/vmware/player/VMware-player-12.5.9-7535481.exe",
-            "VMware Workstation 4.5.3": "https://dl.bobpony.com/software/virtualization/vmware/workstation/VMware-workstation-4.5.3-19414.zip",
-            "VMware Workstation 6.5.5": "https://dl.bobpony.com/software/virtualization/vmware/workstation/VMware-workstation-6.5.5-328052.zip",
-            "VMware Workstation 7.1.6": "https://dl.bobpony.com/software/virtualization/vmware/workstation/VMware-workstation-full-7.1.6-744570.zip",
-            "VMware Workstation 10.0.7": "https://dl.bobpony.com/software/virtualization/vmware/workstation/VMware-workstation-full-10.0.7-2844087.zip",
-            "VMware Workstation 12.0.1": "https://dl.bobpony.com/software/virtualization/vmware/workstation/VMware-workstation-full-12.0.1-3160714.zip",
-            "VMware Workstation 12.5.9": "https://dl.bobpony.com/software/virtualization/vmware/workstation/VMware-workstation-full-12.5.9-7535481.zip" 
+		"VMware": {
+            "VMware Player 6.0.7": "https://dl.bobpony.com/software/vmware/player/VMware-player-6.0.7-2844087.exe",
+            "VMware Player 12.0.1": "https://dl.bobpony.com/software/vmware/player/VMware-player-12.0.1-3160714.exe",
+            "VMware Player 12.5.9": "https://dl.bobpony.com/software/vmware/player/VMware-player-12.5.9-7535481.exe",
+            "VMware Workstation 4.5.3": "https://dl.bobpony.com/software/vmware/workstation/VMware-workstation-4.5.3-19414.zip",
+            "VMware Workstation 6.5.5": "https://dl.bobpony.com/software/vmware/workstation/VMware-workstation-6.5.5-328052.zip",
+            "VMware Workstation 7.1.6": "https://dl.bobpony.com/software/vmware/workstation/VMware-workstation-full-7.1.6-744570.zip",
+            "VMware Workstation 10.0.7": "https://dl.bobpony.com/software/vmware/workstation/VMware-workstation-full-10.0.7-2844087.zip",
+            "VMware Workstation 12.0.1": "https://dl.bobpony.com/software/vmware/workstation/VMware-workstation-full-12.0.1-3160714.zip",
+            "VMware Workstation 12.5.9": "https://dl.bobpony.com/software/vmware/workstation/VMware-workstation-full-12.5.9-7535481.zip" 
         },
 		"Windows (Live) Essentials": {
             "2009 (English)": "https://dl.bobpony.com/software/wle/2009/wlsetup-all-en.exe",
@@ -225,9 +225,9 @@
     },
     "Windows": {
         "10": {
-            "20H1 x86 (All editions)": "https://dl.bobpony.com/windows/10/19041.421.200722-1935.VB_RELEASE_SVC_PROD3_CLIENTMULTI_X86FRE_EN-US.ISO",
-            "20H1 x64 (All editions)": "https://dl.bobpony.com/windows/10/19041.421.200722-2224.VB_RELEASE_SVC_PROD3_CLIENTMULTI_X64FRE_EN-US.ISO",
-            "20H1 ARM64 (All editions)": "https://dl.bobpony.com/windows/10/19041.421.200722-2020.VB_RELEASE_SVC_PROD3_CLIENTMULTI_A64FRE_EN-US.ISO",
+            "20H1 x86 (All editions)": "https://dl.bobpony.com/windows/10/19041.508.200906-1235.VB_RELEASE_SVC_PROD1_CLIENTMULTI_X86FRE_EN-US.ISO",
+            "20H1 x64 (All editions)": "https://dl.bobpony.com/windows/10/19041.508.200906-1519.VB_RELEASE_SVC_PROD1_CLIENTMULTI_X64FRE_EN-US.ISO",
+            "20H1 ARM64 (All editions)": "https://dl.bobpony.com/windows/10/19041.508.200906-1326.VB_RELEASE_SVC_PROD1_CLIENTMULTI_A64FRE_EN-US.ISO",
             "LTSB 2016 x86": "https://dl.bobpony.com/windows/10/en_windows_10_enterprise_2016_ltsb_x86_dvd_9060010.iso",
             "LTSB 2016 x64": "https://dl.bobpony.com/windows/10/en_windows_10_enterprise_2016_ltsb_x64_dvd_9059483.iso",
             "LTSC 2019 x86": "https://dl.bobpony.com/windows/10/en_windows_10_enterprise_ltsc_2019_x86_dvd_892869c9.iso",
