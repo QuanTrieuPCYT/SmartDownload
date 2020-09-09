@@ -16,7 +16,11 @@
             "Windows ME (No Ram Disk": "https://dl.bobpony.com/dos/bootdisk/WinMenoram_bootdisk.zip"
         },
         "MS-DOS": {
-            "Coming Soon!": ""
+            "MS-DOS 2.11 (5.25)": "https://dl.bobpony.com/dos/ms-dos/MS-DOS%202.11%20(5.25).zip",
+            "MS-DOS 3.31": "https://dl.bobpony.com/dos/ms-dos/MS-DOS%203.31.zip",
+            "MS-DOS 4.01a": "https://dl.bobpony.com/dos/ms-dos/MS-DOS%204.01a.zip",
+            "MS-DOS 5.00a": "https://dl.bobpony.com/dos/ms-dos/MS-DOS%205.00a.zip",
+            "MS-DOS 6.22": "https://dl.bobpony.com/dos/ms-dos/MS-DOS%206.22.zip"
         }
 
     },
@@ -51,13 +55,6 @@
             "Win2K/XP": "https://dl.bobpony.com/drivers/gpu/ati2kxp/"
         }
     },
-    "Games": {
-        "Windows": {
-            "After Dark Games": "https://dl.bobpony.com/games/After%20Dark%20Games.iso",
-            "Angry Birds 1.5.2": "https://dl.bobpony.com/games/AngryBirdsInstaller_1.5.2-1.exe",
-            "Full Tilt Pinball": "https://dl.bobpony.com/games/Full-Tilt-Pinball_Win_EN_ISO-Version.zip"
-        }
-    },
     "macOS": {
         "Classic": {
             "Mac OS 9.0.0": "https://dl.bobpony.com/macos/classic/Mac_OS_9.0.0.toast__0.zip",
@@ -83,11 +80,6 @@
             "CD 2": "https://dl.bobpony.com/macos/tiger/Tiger_CD2.toast_.zip",
             "CD 3": "https://dl.bobpony.com/macos/tiger/Tiger_CD3.toast_.zip",
             "CD 4": "https://dl.bobpony.com/macos/tiger/Tiger_CD4.toast_.zip"
-        }
-    },
-    "Miscellaneous": {
-        "iOS 14": {
-            "iOS 14 Beta Profile": "https://dl.bobpony.com/misc/ios14/iOS_14_Beta_Profile.mobileconfig"
         }
     },
     "Software": {
@@ -154,8 +146,7 @@
             "Office 2010 Pro Plus x64": "https://dl.bobpony.com/software/msoffice/2010/en_office_professional_plus_2010_x64_515489.zip",
             "Office 2013 Pro Plus with SP1 x64 and x86": "https://dl.bobpony.com/software/msoffice/2013/en_office_professional_plus_2013_with_sp1_x86_and_x64_dvd_3928186.iso",
 			"Office 2016 Pro Plus x64 and x86": "https://dl.bobpony.com/software/msoffice/2016/en_office_professional_plus_2016_x86_x64_dvd_6962141.iso",
-			"Office 2019 Pro Plus x64 and x86": "https://dl.bobpony.com/software/msoffice/2019/en_office_professional_plus_2019_x86_x64_dvd_7ea28c99.iso",
-            "TODO: Fill out the rest of Office 2007 links, or not.": ""
+			"Office 2019 Pro Plus x64 and x86": "https://dl.bobpony.com/software/msoffice/2019/en_office_professional_plus_2019_x86_x64_dvd_7ea28c99.iso"
         },
 		"Microsoft Plus!": {
             "for Windows 95": "https://dl.bobpony.com/software/msplus/Microsoft%20Plus%21%20for%20Windows%2095.iso",
@@ -214,16 +205,16 @@
             "SP6a": "https://dl.bobpony.com/updates/Windows%20NT%204.0/Windows%20NT%204.0%20Service%20Pack%206a.7z",
             "USB Support Patch": "https://dl.bobpony.com/updates/Windows%20NT%204.0/Windows%20NT%204.0%20USB%20Support%20Patch.7z"
         },
-        "Windows Server 2003 and XP x64": {
+        "Windows Server 2003/XP x64": {
             "SP2": "https://dl.bobpony.com/updates/Windows%20Server%202003%20and%20XP%20x64/WindowsServer2003.WindowsXP-KB914961-SP2-x64-ENU.exe"
         },
-        "Windows XP": {
+        "Windows XP x86": {
             "SP2": "https://dl.bobpony.com/updates/Windows%20XP/xpsp2_33a8fef60d48ae1f2c4feea27111af5ceca3c4f6.exe",
             "SP3": "https://dl.bobpony.com/updates/Windows%20XP/windowsxp-kb936929-sp3-x86-enu_c81472f7eeea2eca421e116cd4c03e2300ebfde4.exe"
         }
     },
     "VM Tools": {
-        "HyperV": {
+        "Hyper-V": {
             "Guest Integration Services for Windows XP to 8.1": "https://dl.bobpony.com/vmtools/hyperv/vmguest.iso"
         },
         "VMware Tools": {
@@ -245,8 +236,6 @@
         "8.1": {
             "x86": "https://dl.bobpony.com/windows/8.x/8.1/en_windows_8.1_with_update_x86_dvd_6051550.iso",
             "x64": "https://dl.bobpony.com/windows/8.x/8.1/en_windows_8.1_with_update_x64_dvd_6051480.iso",
-            "x86 Pre-Updated (May 2020)": "https://dl.bobpony.com/windows/preupdated/Windows%208.1%20x86%20Updated%20May%202020.iso",
-            "x64 Pre-Updated (May 2020)": "https://dl.bobpony.com/windows/preupdated/Windows%208.1%20x64%20Updated%20May%202020.iso",
             "x86 with Bing": "https://dl.bobpony.com/windows/8.x/8.1/Windows%208.1%20with%20Bing%2032%20bit.7z",
             "x64 with Bing": "https://dl.bobpony.com/windows/8.x/8.1/Windows%208.1%20with%20Bing%2064%20bit.7z"
         },
@@ -263,6 +252,11 @@
         },
         "Vista": {
             "x86 DVD": "https://dl.bobpony.com/windows/vista/en_windows_vista_x86_dvd_x12-34293.iso",
+            "x86 CD 1": "https://dl.bobpony.com/windows/vista/en_windows_vista_x86_cd1_x12-54426.iso",
+            "x86 CD 2": "https://dl.bobpony.com/windows/vista/en_windows_vista_x86_cd2_x12-54427.iso",
+            "x86 CD 3": "https://dl.bobpony.com/windows/vista/en_windows_vista_x86_cd3_x12-54428.iso",
+            "x86 CD 4": "https://dl.bobpony.com/windows/vista/en_windows_vista_x86_cd4_x12-54429.iso",
+            "x86 CD 5": "https://dl.bobpony.com/windows/vista/en_windows_vista_x86_cd5_x12-54430.iso",
             "x86 with SP1": "https://dl.bobpony.com/windows/vista/en_windows_vista_with_service_pack_1_x86_dvd_x14-29594.iso",
             "x64 with SP1": "https://dl.bobpony.com/windows/vista/en_windows_vista_with_service_pack_1_x64_dvd_x14-29595.iso",
             "x86 with SP2": "https://dl.bobpony.com/windows/vista/en_windows_vista_with_sp2_x86_dvd_342266.iso",
@@ -330,9 +324,6 @@
             "ASUS E203M": "https://dl.bobpony.com/windows/oemrecovery/ASUS%20E203M.7z",
             "Compaq SR5130NX": "https://dl.bobpony.com/windows/oemrecovery/Compaq%20SR5130NX.7z",
             "IBM T60": "https://dl.bobpony.com/windows/oemrecovery/IBM%20T60.7z"
-        },
-        "Preinstall Environment": {
-            "Windows 10 x64 PE": "https://dl.bobpony.com/windows/pe/BPE.iso"
         }
     },
     "Windows Server": {
