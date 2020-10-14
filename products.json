@@ -246,9 +246,9 @@
     },
     "Windows": {
         "10": {
-            "20H2 x86 (All editions)": "https://dl.bobpony.com/windows/10/19042.541.200915-1519.20H2_RELEASE_SVC_PROD3_CLIENTMULTI_X86FRE_EN-US.ISO",
-            "20H2 x64 (All editions)": "https://dl.bobpony.com/windows/10/19042.541.200915-1821.20H2_RELEASE_SVC_PROD3_CLIENTMULTI_X64FRE_EN-US.ISO",
-            "20H2 ARM64 (All editions)": "https://dl.bobpony.com/windows/10/19042.541.200915-1609.20H2_RELEASE_SVC_PROD3_CLIENTMULTI_A64FRE_EN-US.ISO",
+            "20H2 x86 (All editions)": "https://dl.bobpony.com/windows/10/en_windows_10_20h2_x86.ISO",
+            "20H2 x64 (All editions)": "https://dl.bobpony.com/windows/10/en_windows_10_20h2_x64.ISO",
+            "20H2 ARM64 (All editions)": "https://dl.bobpony.com/windows/10/en_windows_10_20h2_arm64.ISO",
             "LTSB 2015 x86": "https://dl.bobpony.com/windows/10/en_windows_10_enterprise_2015_ltsb_x86_dvd_6848454.iso",
             "LTSB 2015 x64": "https://dl.bobpony.com/windows/10/en_windows_10_enterprise_2015_ltsb_x64_dvd_6848446.iso",
             "LTSB 2016 x86": "https://dl.bobpony.com/windows/10/en_windows_10_enterprise_2016_ltsb_x86_dvd_9060010.iso",
@@ -678,6 +678,20 @@
             "6.2.8513 x64": "https://dl.bobpony.com/windows/beta/8/x64/6.2.8513.0.win8_gdr_soc_intel.120710-2000_amd64fre_client-professional-core_retail_en-us.7z",
             "6.2.8888 x86": "https://dl.bobpony.com/windows/beta/8/x86/6.2.8888.16384.win8_gdr_soc_intel.120724-2000_x86fre_client-professional-core_retail_en-us.7z",
             "6.2.8888 x64": "https://dl.bobpony.com/windows/beta/8/x64/6.2.8888.16384.win8_gdr_soc_intel.120724-2000_amd64chk_client-professional-core_retail_en-us.7z"
+        },
+        "Windows 10": {
+            "6.3.9780 x86": "https://dl.bobpony.com/windows/beta/10/th1/x86/6.3.9780.0.fbl_partner_eeap.140622-0937_x86fre_client-professional-core_retail_en-us.7z",
+            "6.3.9785 x86": "https://dl.bobpony.com/windows/beta/10/th1/x86/6.3.9785.0.fbl_partner_eeap.140629-0030_x86fre_client-professional-core_retail_en-us.7z",
+            "6.4.9821 x64": "https://dl.bobpony.com/windows/beta/10/th1/x64/6.4.9821.0.fbl_partner_eeap.140820-0938_amd64fre_client-professional-core_retail_en-us.7z",
+            "6.4.9841 x86": "https://dl.bobpony.com/windows/beta/10/th1/x86/6.4.9841.0.fbl_release.140912-1613_x86fre_client-professional-core_retail.7z",
+            "6.4.9860 x86": "https://dl.bobpony.com/windows/beta/10/th1/x86/6.4.9860.0.fbl_release.141008-2044_x86fre_client-professional_retail_en-us.7z",
+            "6.4.9860 x64": "https://dl.bobpony.com/windows/beta/10/th1/x64/6.4.9860.0.fbl_release.141008-2044_amd64fre_client-professional_retail.7z",
+            "6.4.9879 x86": "https://dl.bobpony.com/windows/beta/10/th1/x86/6.4.9879.0.fbl_release.141103-1722_x86fre_client-professional-core_retail.7z",
+            "10.0.9888 x64": "https://dl.bobpony.com/windows/beta/10/th1/x64/10.0.9888.0.fbl_release.141113-2137_amd64fre_client-professional-core_retail.7z",
+            "10.0.9900 x86": "https://dl.bobpony.com/windows/beta/10/th1/x86/10.0.9900.0.fbl_awesome1501.141201-2124_x86fre_client-professional_retail_en-us.7z",
+            "10.0.9900 x64": "https://dl.bobpony.com/windows/beta/10/th1/x64/10.0.9900.0.fbl_awesome1501.141201-2124_amd64fre_client-professional_retail_en-us.7z",
+            "More x86 Builds": "https://dl.bobpony.com/windows/beta/10/th1/x86/",
+            "More x64 Builds": "https://dl.bobpony.com/windows/beta/10/th1/x64/"
         },
         "TODO: Fill out other builds.": {
         }
