@@ -22,29 +22,33 @@
         <meta property="theme-color" content="#85fb65">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="./main.css">
+		<link href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css" rel="stylesheet">
     </head>
     <body>
+	<section class="section hero is-fullheight">
         <div class="container">
+		<div class="hero-body">
+    <div class="container has-text-centered">
+      <div class="columns is-desktop is-vcentered is-centered">
             <div>
-                <h1>Downloads</h1>
+                <h1 class="title">Downloads</h1>
                 <p>Design by omame, code fixes by SunburntRock89.</p>
-                <p>
-                    <select name="Product type" id="type" autocomplete="off" onchange="updateVersions()">
+                <p class="dropdown">
+                    <select class="dropdown-item" name="Product type" id="type" autocomplete="off" onchange="updateVersions()">
                         <option disabled selected value="placeholder">---- Choose category ----</option>
                     </select>
-                </p>
-                <p>
-                    <select name="Product version" id="version" autocomplete="off" onchange="updateEditions()">
+                </p><br />
+                <p class="dropdown">
+                    <select class="dropdown-item" name="Product version" id="version" autocomplete="off" onchange="updateEditions()">
                         <option disabled selected value="placeholder">---- Choose version/type ----</option>
                     </select>
-                </p>
-                <p>
-                    <select name="Product edition" id="edition" autocomplete="off" onchange="updateURL()">
+                </p><br />
+                <p class="dropdown">
+                    <select class="dropdown-item" name="Product edition" id="edition" autocomplete="off" onchange="updateURL()">
                         <option disabled selected value="placeholder">---- Choose option ----</option>
                     </select>
-                </p>
-                <p id="downloadP">
+                </p><br />
+                <p class="button" id="downloadP">
                     <a id="download">DOWNLOAD</a>
                 </p>
                 <p>Want to help us out with the site? <a href="https://github.com/TheBobPony/BPDownloadsGUI">Check out the repo!</a></p>
@@ -58,8 +62,11 @@
                 <!--<p>Want to check out the original files? <a href="https://download.bobpony.com">Click here to go to the Downloads page!</a></p>-->
                 <p>Note: If you need to enter a password, try <span style="font-family: monospace;">bigcdn</span>.</p>
             </div>
+			</div>
+			</div>
+			</div>
         </div>
-    
+    </section>
         <!-- Script tags here! -->
         <script src="./listing.js"></script>
     </body>
