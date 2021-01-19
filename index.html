@@ -23,14 +23,125 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 		<link href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css" rel="stylesheet">
+		<link href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" rel="stylesheet">
+		<link href="https://cdn.jsdelivr.net/npm/bulma-tooltip@3.0.2/dist/css/bulma-tooltip.min.css" rel="stylesheet">
     </head>
+	
+	<nav class="navbar is-link" role="navigation" aria-label="main navigation">
+<div class="container" id="container">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="/">
+      <img src="https://bobpony.com/img/favicon.png">
+    </a>
+
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="navbarBasicExample" class="navbar-menu">
+    <div class="navbar-start">
+      <a href="https://bobpony.com" class="navbar-item">
+        <span class="icon-text">
+          <span class="icon">
+            <i class="fas fa-home"></i>
+          </span>
+          <span>Home</span>
+        </span>
+      </a>
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          <span class="icon-text">
+            <span class="icon">
+              <i class="fas fa-download"></i>
+            </span>
+            <span>Downloads</span>
+          </span>
+        </a>
+        <div class="navbar-dropdown">
+          <a href="https://downloadui.bobpony.com" class="navbar-item is-active">
+            <span class="icon-text">
+              <span class="icon">
+                <i class="fas fa-download"></i>
+              </span>
+              <span>Downloader UI</span>
+            </span>
+          </a>
+          <a href="https://dl.bobpony.com" class="navbar-item">
+            <span class="icon-text">
+              <span class="icon">
+                <i class="fas fa-list"></i>
+              </span>
+              <span>Directory Listing</span>
+            </span>
+          </a>
+        </div>
+      </div>
+	  <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          <span class="icon-text">
+            <span class="icon">
+              <i class="fas fa-cubes"></i>
+            </span>
+            <span>More</span>
+          </span>
+        </a>
+        <div class="navbar-dropdown">
+		<a href="https://video.bobpony.com" class="navbar-item">
+            <span class="icon-text">
+              <span class="icon">
+                <i class="fas fa-film"></i>
+              </span>
+              <span>Video Archives</span>
+            </span>
+          </a>
+          <a href="https://github.com/TheBobPony" class="navbar-item">
+            <span class="icon-text">
+              <span class="icon">
+                <i class="fab fa-github"></i>
+              </span>
+              <span>GitHub profile</span>
+            </span>
+          </a>
+          <a href="https://github.com/TheBobPony/bobpony.com" class="navbar-item">
+            <span class="icon-text">
+              <span class="icon">
+                <i class="fas fa-code"></i>
+              </span>
+              <span>View this site on GitHub</span>
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="navbar-end">
+      <a href="https://www.youtube.com/channel/UCAZzz2Dd9Xh6vTjNcxhqPZw" class="navbar-item has-tooltip-bottom" data-tooltip="YouTube">
+        <i class="fab fa-youtube"></i>
+      </a>
+      <a href="https://twitter.com/TheBobPony" class="navbar-item has-tooltip-bottom" data-tooltip="Twitter">
+        <i class="fab fa-twitter"></i>
+      </a>
+      <a href="https://discord.me/bobpony" class="navbar-item has-tooltip-bottom" data-tooltip="Discord Server">
+        <i class="fab fa-discord"></i>
+      </a>
+	  <a href="mailto:contact@bobpony.com" class="navbar-item has-tooltip-bottom" data-tooltip="Email">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </div>
+  </div>
+  </div>
+</nav>
+	
     <body>
-	<section class="section hero is-fullheight">
+	<section class="section hero">
         <div class="container">
 		<div class="hero-body">
     <div class="container has-text-centered">
       <div class="columns is-desktop is-vcentered is-centered">
-            <div>
+            <div class="column is-narrow">
                 <h1 class="title">Downloads</h1>
                 <p>Design by omame, code fixes by SunburntRock89.</p>
                 <p class="dropdown">
@@ -52,15 +163,7 @@
                     <a id="download">DOWNLOAD</a>
                 </p>
                 <p>Want to help us out with the site? <a href="https://github.com/TheBobPony/BPDownloadsGUI">Check out the repo!</a></p>
-                <!--
-                    Note from Sep 5, 2020:
-                    File listings were disabled due to issues.
-                    Domain was also moved to dl.bobpony.com, which was fixed in the JS files, but not here.
-                    Commented it out.
-                        -- omame
-                -->
-                <!--<p>Want to check out the original files? <a href="https://download.bobpony.com">Click here to go to the Downloads page!</a></p>-->
-                <p>Note: If you need to enter a password, try <span style="font-family: monospace;">bigcdn</span>.</p>
+                <p>Want to check out the original files? <a href="https://dl.bobpony.com">Click here to go to the Downloads page!</a></p>
             </div>
 			</div>
 			</div>
