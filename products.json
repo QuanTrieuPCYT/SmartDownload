@@ -330,8 +330,8 @@
             "Windows XP Media Center Edition 2005": "https://dl.bobpony.com/windows/xp/mce/en_winxp_mce_2005.7z"
         },
         "2000": {
-            "Windows 2000 Professional with SP4": "https://dl.bobpony.com/windows/2000/Windows%202000%20Professional%20SP4.ISO",
-            "Windows 2000 Server with SP4": "https://dl.bobpony.com/windows/2000/EN_WIN2000_SRV_SP4.ISO"
+            "Windows 2000 Professional with SP4": "https://dl.bobpony.com/windows/2000/5.00.2195.6717_x86fre_client-professional_retail_en-us.7z",
+            "Windows 2000 Advanced Server with SP4": "https://dl.bobpony.com/windows/2000/5.00.2195.6717_x86fre_server-advancedserver_retail_en-us.7z"
         },
         "9x": {
             "Windows 95 (4.00.950)": "https://dl.bobpony.com/windows/9x/95/Microsoft%20Windows%2095%20%284.00.950%29.zip",
@@ -417,7 +417,7 @@
             "Updated Feb 2018 x64": "https://dl.bobpony.com/windows/server/2016/en_windows_server_2016_updated_feb_2018_x64_dvd_11636692.iso"
         },
         "2019": {
-            "x64 (Updated Oct 2020)": "https://dl.bobpony.com/windows/server/2019/en_windows_server_2019_updated_oct_2020_x64_dvd_7484fc77.iso"
+            "x64 (Updated Jan 2021)": "https://dl.bobpony.com/windows/server/2019/en_windows_server_2019_updated_jan_2021_x64_dvd_5ef22372.iso"
         }
     },
     "Windows Betas": {
