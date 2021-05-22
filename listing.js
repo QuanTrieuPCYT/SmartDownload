@@ -12,7 +12,7 @@ const versionObj = document.querySelector("#version");
 const editionObj = document.querySelector("#edition");
 const downloadURL = document.querySelector("#download");
 
-fetch("./products.json").then(data => data.json().then(products => {
+fetch("/products.json").then(data => data.json().then(products => {
 	productList = products;
 	for (const i in products) {
 		typeObj.append(new Option(i, i));
