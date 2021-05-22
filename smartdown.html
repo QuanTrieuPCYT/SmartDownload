@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: https://ogp.me/ns#">
+    <head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<link rel="icon" href="/index_files/favicon.ico">   
+      		<meta content="width=device-width,initial-scale=1,user-scalable=no" name="viewport">
+      		<meta content="#00FFFF" name="theme-color">
+      		<meta content="About my devices" name="description">
+      		<meta content="qtpc, quantrieupcyt, qtpctechhxd, quantrieucomputer, myytraspi4, myytfileserver, my_yt_raspi4, my_yt_laserjet1020" name="keywords">
+      		<meta content="http://webgay.ddns.net/smartdown" property="og:url">
+      		<meta content="Ooh here they are Windows ISOs!" property="og:description">
+		<meta content="WinRepo SmartDownload" itemprop="headline" property="og:title"/>
+		<meta name="twitter:card" value="summary"/>
+		<meta name="twitter:url" content="https://webgay.ddns.net/smartdown"/>
+			<meta name="twitter:title" content="WinRepo SmartDownload"/>
+		<meta name="twitter:description" content="Ooh here they are Windows ISOs!"/>
+		<meta name="twitter:image" content="https://webgay.ddns.net/iconsus.png"/>
+		<meta name="twitter:site" content="@qtpctechhxd"/>
+		<meta name="twitter:creator" content="@qtpctechhxd"/>
+		<meta property="og:image" itemprop="thumbnailUrl" content="https://webgay.ddns.net/iconsus.png"/>
+	<script src="/index_files/qu7R2WvXQbI8JFAiGBv8tx1i7MY.js"></script><script src="/index_files/PqTja4loNACsxcYyiOrM0o-o4Ac.js"></script><link rel="stylesheet" href="/index_files/bulma.css">
+        <title>SmartDownload</title>
+        <link
+            href="https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css"
+            rel="stylesheet"
+        />
+        <link
+            href="https://use.fontawesome.com/releases/v5.15.3/css/all.css"
+            rel="stylesheet"
+        />
+        <link
+            href="https://cdn.jsdelivr.net/npm/bulma-tooltip@3.0.2/dist/css/bulma-tooltip.min.css"
+            rel="stylesheet"
+        />
+        <style>
+          .dropdown-item {
+            min-width: 40vh;
+            max-width: 95vw;
+            text-align-last: center;
+            margin-bottom: 1em;
+          }
+          .buttom {
+            margin-bottom: 0.5em;
+          }
+        </style>
+    </head>
+
+
+
+    <body>
+	<link href="/index_files/bulma.css" rel="stylesheet" type="text/css">
+	<link href="/index_files/main.css" rel="stylesheet" type="text/css">
+	<link href="css/other.css" rel="stylesheet" type="text/css">
+	<script src="js/font-awesome.js"></script>
+	<script src="js/navbar.js"></script>
+
+
+    <header class="nav header">
+
+    <div class="nav-left">
+
+        <a class="nav-item" href="/" style="color: white;"><img src="/index_files/avi.png"></a>
+
+    </div>
+
+    
+
+
+    <div class="nav-right nav-menu">
+
+        <a class="nav-item" href="/" style="color: white;">Home</a>
+
+        <a class="nav-item" href="/hdd/Operating%20System%20Files/Microsoft%20Windows" style="color: white;">WinRepo</a>
+
+	<a class="nav-item" href="/devices.html" style="color: white;">Devices</a>
+
+	<a class="nav-item" href="https://bit.ly/qt-pc" style="color: white;">YouTube</a>
+        
+        <a class="nav-item" href="https://facebook.com/qtpctechhxd" style="color: white;">Facebook</a>
+
+        <a class="nav-item" href="https://stats.uptimerobot.com/jANP0Ij06m" style="color: white;">Uptime</a>
+        
+	<a class="nav-item" href="/smartdown" style="color: white;">SmartDownload</a>		
+
+    </div>
+</header>
+
+        <section class="section hero">
+            <div class="container">
+                <div class="hero-body">
+                    <div class="container has-text-centered">
+                        <div
+                            class="columns is-desktop is-vcentered is-centered"
+                        >
+                            <div class="column is-narrow">
+                                <h1 class="title"><b>WinRepo SmartDownload</b></h1>
+                                <p class="dropdown">
+                                    <select
+                                        class="dropdown-item"
+                                        name="Product type"
+                                        id="type"
+                                        autocomplete="off"
+                                        onchange="updateVersions()"
+                                    >
+                                        <option
+                                            disabled
+                                            selected
+                                            value="placeholder"
+                                        >
+                                            ---- Choose edition ----
+                                        </option>
+                                    </select>
+                                </p>
+                                <br />
+                                <p class="dropdown">
+                                    <select
+                                        class="dropdown-item"
+                                        name="Product version"
+                                        id="version"
+                                        autocomplete="off"
+                                        onchange="updateEditions()"
+                                    >
+                                        <option
+                                            disabled
+                                            selected
+                                            value="placeholder"
+                                        >
+                                            ---- Choose version/type ----
+                                        </option>
+                                    </select>
+                                </p>
+                                <br />
+                                <p class="dropdown">
+                                    <select
+                                        class="dropdown-item"
+                                        name="Product edition"
+                                        id="edition"
+                                        autocomplete="off"
+                                        onchange="updateURL()"
+                                    >
+                                        <option
+                                            disabled
+                                            selected
+                                            value="placeholder"
+                                        >
+                                            ---- Choose option ----
+                                        </option>
+                                    </select>
+                                </p>
+                                <br />
+                                <p class="button" id="downloadP">
+                                    <a id="download"><b>DOWNLOAD</b></a>
+                                </p>
+                                <p>
+                                    Want the source code of this page?
+                                    <a
+                                        href="https://github.com/QuanTrieuPCYT/SmartDownload"
+                                        ><b>on GitHub</b>!</a
+                                    >
+                                </p>
+                                <p>
+                                    Want to check out the files?
+                                    <a href="/hdd/Operating%20System%20Files/Microsoft%20Windows"
+                                        ><b>Click here to go to back to the classic WinRepo Index
+                                        page!</b></a
+                                    >
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Script tags here! -->
+        <script src="/newsmartdown/listing.js"></script>
+    </body>
+</html>

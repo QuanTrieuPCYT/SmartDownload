@@ -1,0 +1,274 @@
+{
+    "Windows 10": {
+        "21H1 (May 2021 Update)": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/21H1%20(May%202021%20Update)/Windows%2010%2021H1%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/21H1%20(May%202021%20Update)/Windows%2010%2021H1%20(x86).iso",
+            "ARM64": ""
+        },
+        "2009 (20H2) (October 2020 Update)": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/2009%20(20H2)%20(October%202020%20Update)/Windows%2010%2020H2%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/2009%20(20H2)%20(October%202020%20Update)/Windows%2010%2020H2%20(x86).iso",
+            "ARM64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/2009%20(20H2)%20(October%202020%20Update)/Windows%2010%2020H2%20(ARM64).iso"
+        },
+		"2004 (20H1) (May 2020 Update)": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/2004%20(20H1)%20(May%202020%20Update)/Windows%2010%202004%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/2004%20(20H1)%20(May%202020%20Update)/Windows%2010%202004%20(x86).iso",
+            "ARM64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/2004%20(20H1)%20(May%202020%20Update)/Windows%2010%202004%20(ARM64).iso"
+        },
+		"1909 (19H2) (November 2019 Update)": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1909%20(19H2)%20(November%202019%20Update)/Windows%2010%201909%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1909%20(19H2)%20(November%202019%20Update)/Windows%2010%201909%20(x86).iso"
+        },
+		"1903 (19H1) (May 2019 Update)": {
+			"x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1903%20(19H1)%20(May%202019%20Update)/Windows%2010%201903%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1903%20(19H1)%20(May%202019%20Update)/Windows%2010%201903%20(x86).iso"
+        },
+		"1809 (Redstone 5) (October 2018 Update)": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1809%20(Redstone%205)%20(October%202018%20Update)/Windows%2010%201809%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1809%20(Redstone%205)%20(October%202018%20Update)/Windows%2010%201809%20(x86).iso",
+            "x64 (LTSC)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1809%20(Redstone%205)%20(October%202018%20Update)/Windows%2010%20Enterprise%20LTSC%20(x64).iso",
+            "x86 (LTSC)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1809%20(Redstone%205)%20(October%202018%20Update)/Windows%2010%20Enterprise%20LTSC%20(x86).iso"
+        },
+		"1803 (Redstone 4) (April 2018 Update)": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1803%20(Redstone%204)%20(April%202018%20Update)/Windows%2010%201803%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1803%20(Redstone%204)%20(April%202018%20Update)/Windows%2010%201803%20(x86).iso"
+        },
+		"1709 (Redstone 3) (Fall Creators Update)": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1709%20(Redstone%203)%20(Fall%20Creators%20Update)/Windows%2010%201709%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1709%20(Redstone%203)%20(Fall%20Creators%20Update)/Windows%2010%201709%20(x86).iso"
+        },
+		"1703 (Redstone 2) (Creators Update)": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1703%20(Redstone%202)%20(Creators%20Update)/Windows%2010%201703%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1703%20(Redstone%202)%20(Creators%20Update)/Windows%2010%201703%20(x86).iso"
+        },
+		"1607 (Redstone 1) (Anniversary Update)": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1607%20(Redstone%201)%20(Anniversary%20Update)/Windows%2010%201607%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1607%20(Redstone%201)%20(Anniversary%20Update)/Windows%2010%201607%20(x64).iso",
+            "x64 (LTSB 2016)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1607%20(Redstone%201)%20(Anniversary%20Update)/Windows%2010%20Enterprise%20LTSB%202016%20(x64).iso",
+            "x86 (LTSB 2016)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1607%20(Redstone%201)%20(Anniversary%20Update)/Windows%2010%20Enterprise%20LTSB%202016%20(x86).iso"
+        },
+        "1511 (Threshold 2) (November Update)": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1511%20(Threshold%202)%20(November%20Update)/Windows%2010%201511%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1511%20(Threshold%202)%20(November%20Update)/Windows%2010%201511%20(x86).iso"
+	},
+        "1507 (Threshold 1) (RTM)": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1507%20(Threshold%201)%20(RTM)/Windows%2010%201507%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1507%20(Threshold%201)%20(RTM)/Windows%2010%201507%20(x86).iso",
+            "x64 (LTSB 2015)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1507%20(Threshold%201)%20(RTM)/Windows%2010%20Enterprise%20LTSB%202015%20(x64).iso",
+            "x86 (LTSB 2015)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/1507%20(Threshold%201)%20(RTM)/Windows%2010%20Enterprise%20LTSB%202015%20(x86).iso"
+        }
+
+    },
+    "Windows 8.1": {
+        "Home + Pro": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%208.1/Stable%20Builds/Windows%208.1%20(Home%20+%20Pro)%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%208.1/Stable%20Builds/Windows%208.1%20(Home%20+%20Pro)%20(x86).iso"
+        },
+        "Enterprise": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%208.1/Stable%20Builds/Windows%208.1%20(Enterprise)%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%208.1/Stable%20Builds/Windows%208.1%20(Enterprise)%20(x86).iso"
+        },
+        "Home Single Language": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%208.1/Stable%20Builds/Windows%208.1%20Home%20Single%20Language%20(x64).iso",
+	    "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%208.1/Stable%20Builds/Windows%208.1%20Home%20Single%20Language%20(x86).iso"
+        },
+        "Pro (VL)": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%208.1/Stable%20Builds/Windows%208.1%20Pro%20(VL)%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%208.1/Stable%20Builds/Windows%208.1%20Pro%20(VL)%20(x86).iso"
+        }
+    },
+    "Windows 7": {
+        "Starter (SP1)": {
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%207/Stable%20Builds/Windows%207%20Starter%20(SP1)%20(x86).iso"
+        },
+        "Home Basic (SP1)": {
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%207/Stable%20Builds/Windows%207%20Home%20Basic%20(SP1)%20(x86).iso"
+        },
+        "Home Premium (SP1)": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%207/Stable%20Builds/Windows%207%20Home%20Premium%20(SP1)%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%207/Stable%20Builds/Windows%207%20Home%20Premium%20(SP1)%20(x86).iso"
+        },
+        "Professional (SP1)": {
+	    "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%207/Stable%20Builds/Windows%207%20Professional%20(SP1)%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%207/Stable%20Builds/Windows%207%20Professional%20(SP1)%20(x64).iso",
+            "x64 (VL)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%207/Stable%20Builds/Windows%207%20Professional%20(SP1)%20(VL)%20(x64).iso",
+            "x86 (VL)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%207/Stable%20Builds/Windows%207%20Professional%20(SP1)%20(VL)%20(x86).iso"
+        },
+        "Ultimate (RTM)": {
+	    "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%207/Stable%20Builds/Windows%207%20Ultimate%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%207/Stable%20Builds/Windows%207%20Ultimate%20(x86).iso"
+        },
+        "Ultimate (SP1)": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%207/Stable%20Builds/Windows%207%20Ultimate%20(SP1)%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%207/Stable%20Builds/Windows%207%20Ultimate%20(SP1)%20(x86).iso"
+        },
+        "Enterprise (SP1)": {
+	    "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%207/Stable%20Builds/Windows%207%20Enterprise%20(SP1)%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%207/Stable%20Builds/Windows%207%20Enterprise%20(SP1)%20(x86).iso"
+        },
+		"Additional": {
+	    "Automated Installation Kit (x86-64) (IA-64)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%207/Stable%20Builds/Windows%20Automated%20Installation%20Kit%20for%20Windows%207%20and%20Windows%20Server%202008%20R2%20(SP1)%20(x86-64)%20(IA-64).iso"
+		}
+    },
+    "Windows Vista": {
+        "RTM": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Vista/Stable%20Builds/Windows%20Vista%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Vista/Stable%20Builds/Windows%20Vista%20(x86).iso"
+        },
+        "SP1": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Vista/Stable%20Builds/Windows%20Vista%20(SP1)%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Vista/Stable%20Builds/Windows%20Vista%20(SP1)%20(x86).iso"
+        },
+        "SP2": {
+            "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Vista/Stable%20Builds/Windows%20Vista%20(SP2)%20(x64).iso",
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Vista/Stable%20Builds/Windows%20Vista%20(SP2)%20(x86).iso"
+        },
+        "Enterprise (SP2)": {
+			"x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Vista/Stable%20Builds/Windows%20Vista%20Enterprise%20(SP2)%20(x64).iso",
+			"x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Vista/Stable%20Builds/Windows%20Vista%20Enterprise%20(SP2)%20(x86).iso"
+        },
+		"Additional": {
+			"Multiple Discs Installation": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Vista/Stable%20Builds/Windows%20Vista%20Multiple%20Discs%20Installation"
+		}
+	},
+	"Windows XP": {
+		"Home Edition (unconfirmed - please check if this is RTM)": {
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20XP/Stable%20Builds/Windows%20XP%20Home%20Edition%20(x86).iso"
+        },
+        "Home Edition (SP2)": {
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20XP/Stable%20Builds/Windows%20XP%20Home%20Edition%20(SP2)%20(x86).iso"
+        },
+        "Starter Edition (SP2)": {
+            "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20XP/Stable%20Builds/Windows%20XP%20Starter%20Edition%20(SP2)%20(x86).iso"
+        },
+        "Starter Edition (SP3)": {
+			"x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20XP/Stable%20Builds/Windows%20XP%20Starter%20Edition%20(SP3)%20(x86).iso"
+        },
+		"Media Center Edition": {
+			"x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20XP/Stable%20Builds/Windows%20XP%20Media%20Center%20Edition%20(x86).iso"
+		},
+		"Media Center Edition 2004": {
+			"x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20XP/Stable%20Builds/Windows%20XP%20Media%20Center%20Edition%202004%20(x86).iso"
+		},
+		"Professional": {
+			"x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20XP/Stable%20Builds/Windows%20XP%20Professional%20(x86).iso",
+			"x86 (VL)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20XP/Stable%20Builds/Windows%20XP%20Professional%20(VL)%20(x86).iso"
+		},
+		"Professional x64 Edition": {
+			"x64 (VL)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20XP/Stable%20Builds/Windows%20XP%20Professional%20(VL)%20(x64).iso"
+		},
+		"Professional (SP2)": {
+			"x86 (VL)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20XP/Stable%20Builds/Windows%20XP%20Professional%20(SP2)%20(VL)%20(x86).iso"
+		},
+		"Professional x64 Edition (SP1)": {
+			"x86 (OEM)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20XP/Stable%20Builds/Windows%20XP%20Professional%20(SP1)%20(OEM)%20(x64).iso"
+		},
+		"Professional (SP3)": {
+			"x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20XP/Stable%20Builds/Windows%20XP%20Professional%20(SP3)%20(x86).iso",
+			"x86 (VL)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20XP/Stable%20Builds/Windows%20XP%20Professional%20(SP3)%20(VL)%20(x86).iso"
+		},
+		"Professional x64 Edition (SP2)": {
+			"x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20XP/Stable%20Builds/Windows%20XP%20Professional%20(SP2)%20(x64).iso",
+			"x64 (VL)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20XP/Stable%20Builds/Windows%20XP%20Professional%20(SP2)%20(VL)%20(x64).iso"
+		},
+		"Additional": {
+			"MCE 2005": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20XP/Stable%20Builds/Windows%20XP%20Media%20Center%20Edition%202005%20(Multiple%20Discs%20Installation)",
+			"XP for Tablet PCs": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20XP/Stable%20Builds/Windows%20XP%20for%20Tablet%20PCs%20(Multiple%20Discs%20Installation)",
+			"XP for Tablet PCs (VL)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20XP/Stable%20Builds/Windows%20XP%20for%20Tablet%20PCs%20(VL)%20(Multiple%20Discs%20Installation)",
+			"Manufacturer's Builds": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20XP/Stable%20Builds/Manufacturer's%20Builds"
+		}
+	},
+	"Windows Server 2019": {
+		"All": {
+			"x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202019/Stable%20Builds/Windows%20Server%202019%20(x64).iso"
+		}
+	},
+	"Windows Server 2016": {
+		"All": {
+			"x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202016/Stable%20Builds/Windows%20Server%202016%20(x64).iso"
+		}
+	},
+	"Windows Server 2012": {
+		"R1": {
+			"x64 (Hyper-V Server)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202012%20R1/Stable%20Builds/Windows%20Server%202012%20R1%20(Hyper-V%20Server)%20(x64).iso",
+			"x64 (Language)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202012%20R1/Stable%20Builds/Windows%20Server%202012%20R1%20(Language%20Pack)%20(x64).iso",
+			"x64 (Retail)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202012%20R1/Stable%20Builds/Windows%20Server%202012%20R1%20(Retail)%20(x64).iso",
+			"x64 (VL)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202012%20R1/Stable%20Builds/Windows%20Server%202012%20R1%20(VL)%20(x64).iso"
+		},
+		"R2": {
+			"x64 (Language)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202012%20R2/Stable%20Builds/Windows%20Server%202012%20R2%20(Language%20Pack)%20(x64).iso",
+			"x64 (Retail)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202012%20R2/Stable%20Builds/Windows%20Server%202012%20R2%20(Retail)%20(x64).iso",
+			"x64 (VL)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202012%20R2/Stable%20Builds/Windows%20Server%202012%20R2%20(VL)%20(x64).iso"
+		}
+	},
+	"Windows Storage Server 2012": {
+		"R2": {
+			"x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Storage%20Server%202012/Stable%20Builds/Windows%20Storage%20Server%202012%20R2%20(x64).iso"
+		}
+	},
+	"Windows Home Server 2011": {
+		"Installation Disc": {
+			"x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Home%20Server%202011/Stable%20Builds/Windows%20Home%20Server%202011%20(Installation%20Disc)%20(x64).iso"
+		},
+		"Restore Disc": {
+			"x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Home%20Server%202011/Stable%20Builds/Windows%20Home%20Server%202011%20(Restore%20Disc)%20(x64).iso"
+		}
+	},
+	"Windows Home Server": {
+		"Connector Disc": {
+			"x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Home%20Server/Stable%20Builds/Windows%20Home%20Server%20(Connector%20Disc)%20(x86).iso"
+		},
+		"Restore Disc": {
+			"x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Home%20Server/Stable%20Builds/Windows%20Home%20Server%20(Restore%20Disc)%20(x86).iso"
+		},
+		"Installation Disc": {
+			"x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Home%20Server/Stable%20Builds/Windows%20Home%20Server%20(Installation%20Disc)%20(x86).iso"
+		}
+	},
+	"Windows Server 2008": {
+		"R1 (SP2)": {
+			"x64 (Web)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202008%20R1/Stable%20Builds/Windows%20Server%202008%20R1%20(SP2)%20(Web)%20(x64).iso",
+			"x86 (Web)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202008%20R1/Stable%20Builds/Windows%20Server%202008%20R1%20(SP2)%20(Web)%20(x86).iso",
+			"x64 (without Hyper-V)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202008%20R1/Stable%20Builds/Windows%20Server%202008%20R1%20(SP2)%20(without%20Hyper-V)%20(x64).iso",
+			"x86 (without Hyper-V)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202008%20R1/Stable%20Builds/Windows%20Server%202008%20R1%20(SP2)%20(without%20Hyper-V)%20(x86).iso",
+			"x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202008%20R1/Stable%20Builds/Windows%20Server%202008%20R1%20(SP2)%20(x64).iso",
+			"x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202008%20R1/Stable%20Builds/Windows%20Server%202008%20R1%20(SP2)%20(x86).iso"
+		},
+		"R2 (SP1)": {
+			"x64 (Retail)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202008%20R2/Stable%20Builds/Windows%20Server%202008%20R2%20(SP1)%20(Retail)%20(x64).iso",
+			"x64 (VL)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202008%20R2/Stable%20Builds/Windows%20Server%202008%20R2%20(SP1)%20(VL)%20(x64).iso"
+		},
+		"Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2": {
+			"x86-64 | IA-64 (SP1)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202008%20R2/Stable%20Builds/Windows%20Automated%20Installation%20Kit%20for%20Windows%207%20and%20Windows%20Server%202008%20R2%20(SP1)%20(x86-64)%20(IA-64).iso"
+		}
+	},
+	"Windows Storage Server 2008": {
+		"Windows Storage Server 2008 Embedded Tools": {
+			"x86-64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Storage%20Server%202008/Stable%20Builds/Windows%20Storage%20Server%202008%20Embedded%20Tools%20(x86-64).iso"
+		},
+		"Windows Storage Server 2008 R2 Embedded (Standard, Enterprise, Workgroup) with iSCSI Software Target 3.3": {
+			"x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Storage%20Server%202008/Stable%20Builds/Windows%20Storage%20Server%202008%20R2%20Embedded%20(Standard,%20Enterprise,%20Workgroup)%20with%20iSCSI%20Software%20Target%203.3%20(x64).iso"
+		},
+		"Additional": {
+			"Microsoft iSCSI 3.2 Tools (x86-64)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Storage%20Server%202008/Stable%20Builds/Microsoft%20iSCSI%203.2%20Tools%20(x86-64).iso",
+			"Microsoft iSCSI Software Target 3.2 (x86-64)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Storage%20Server%202008/Stable%20Builds/Microsoft%20iSCSI%20Software%20Target%203.2%20(x86-64).iso"
+		}
+	},
+	"Windows Server 2003": {
+		"R1": {
+			"(SP1) x86 (Enterprise)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202003%20R1/Stable%20Builds/Windows%20Server%202003%20R1%20Enteprise%20(SP1)%20(x86).zip",
+			"IA-64 (Enterprise)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202003%20R1/Stable%20Builds/Windows%20Server%202003%20R1%20Enterprise%20(IA-64).zip",
+			"(SP1) x86 (Web)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202003%20R1/Stable%20Builds/Windows%20Server%202003%20R1%20Web%20(SP1)%20(x86).zip",
+			"(SP2) unknown_arch_pls_test (Web) (VL)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202003%20R1/Stable%20Builds/Windows%20Server%202003%20R1%20Web%20(SP2)%20(VL).zip",
+			"(SP1) x86 (Standard)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202003%20R1/Stable%20Builds/Windows%20Server%202003%20Standard%20(SP1)%20(x86).zip"
+		},
+		"R2 (SP2)": {
+			"(SP2) x86 (Datacenter)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202003%20R2/Stable%20Builds/Windows%20Server%202003%20R2%20Datacenter%20(SP2)%20(VL)%20(x64).zip",
+			"(SP2) x64 (Datacenter)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202003%20R2/Stable%20Builds/Windows%20Server%202003%20R2%20Datacenter%20(SP2)%20(VL)%20(x86).zip",
+			"(SP2) x64 (Enterprise)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202003%20R2/Stable%20Builds/Windows%20Server%202003%20R2%20Enterprise%20(SP2)%20(x64).zip",
+			"(SP2) x86 (Enterprise)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202003%20R2/Stable%20Builds/Windows%20Server%202003%20R2%20Enterprise%20(SP2)%20(x86).zip",
+			"(SP2) x64 (Standard)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202003%20R2/Stable%20Builds/Windows%20Server%202003%20R2%20Standard%20(SP2)%20(x64).zip",
+			"(SP2) x86 (Standard)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%20Server/Windows%20Server%202003%20R2/Stable%20Builds/Windows%20Server%202003%20R2%20Standard%20(SP2)%20(x86).zip"
+		}
+	}
+}
