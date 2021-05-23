@@ -1,7 +1,7 @@
 const ua = window.navigator.userAgent;
 const msie = ua.indexOf("MSIE ");
 
-if (msie > 0 || !!navigator.userAgent.match(/Trident.*rv:11\./)) window.location.href = "/iebad.html";
+if (msie > 0 || !!navigator.userAgent.match(/Trident.*rv:11\./)) window.location.href = "./iebad";
 
 
 let productList = {};
