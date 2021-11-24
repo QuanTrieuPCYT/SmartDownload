@@ -43,7 +43,7 @@ a#download {
     transition: all 0.3s ease-in-out;
 }
 
-a#download[href^="https://webgay.ddns.net"] {
+a#download[href^="https://qtpc.tech"] {
     background-color: #85fb65;
     color: black;
 }
