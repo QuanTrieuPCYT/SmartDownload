@@ -2,13 +2,23 @@
 "Windows 11": {
         "Consumer Preview (LEAKED) (DEV) (SE ISO)": {
             "x64 (MS PLS DONT SUE ME)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2011/Leaked%20Dev%20Build%20(16.06.2021)%20(prob%20SE%20iso%20as%20it%20has%20TPM%20and%20secure%20boot%20shits)/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso"
-		}
+		},
+	"First Initial Release": {
+	    "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2011/Stable%20Builds/Windows%2011%20(x64).iso",
+	    "ARM64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2011/Stable%20Builds/Windows%2011%20(ARM64).iso"
+	        }
 	},
     "Windows 10": {
-        "21H1 (May 2021 Update)": {
+	"21H2 (November 2021 Update)": {
+	    "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/21H2%20(November%202021%20Update)/Windows%2010%2021H2%20(x64).iso",
+	    "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/21H2%20(November%202021%20Update)/Windows%2010%2021H2%20(x86).iso",
+	    "x64 (LTSC)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/21H2%20(November%202021%20Update)/Windows%2010%20Enterprise%20LTSC%202021%20(x64).iso",
+            "x86 (LTSC)": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/21H2%20(November%202021%20Update)/Windows%2010%20Enterprise%20LTSC%202021%20(x86).iso"
+	},
+	"21H1 (May 2021 Update)": {
             "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/21H1%20(May%202021%20Update)/Windows%2010%2021H1%20(x64).iso",
             "x86": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/21H1%20(May%202021%20Update)/Windows%2010%2021H1%20(x86).iso",
-            "ARM64": ""
+            "ARM64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/21H1%20(May%202021%20Update)/Windows%2010%2021H1%20(ARM64).iso"
         },
         "2009 (20H2) (October 2020 Update)": {
             "x64": "/hdd/Operating%20System%20Files/Microsoft%20Windows/Windows%2010/Stable%20Builds/2009%20(20H2)%20(October%202020%20Update)/Windows%2010%2020H2%20(x64).iso",
